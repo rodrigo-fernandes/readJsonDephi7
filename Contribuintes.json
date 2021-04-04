@@ -1,0 +1,7453 @@
+{
+	"registros": [
+
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00039948994"
+			},
+			"endereco_correspondencia": "Otto Weiss",
+			"bairro_socio": "Cruzeiro",
+			"uf_socio": "SC",
+			"cidade_socio": "Rio Negrinho",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00225103036"
+			},
+			"endereco_correspondencia": "RUA CAMBORIU",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "673",
+			"complemento": "APT 1703"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00278449000"
+			},
+			"endereco_correspondencia": "RUA JOÃO ANTONIAZZI",
+			"bairro_socio": "PROGRESSO",
+			"uf_socio": "RS",
+			"cidade_socio": "BENTO GONÇALVES",
+			"numero": "78",
+			"complemento": "APTO 401"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00347599990"
+			},
+			"endereco_correspondencia": "AVENIDA NILO BITTENCOURT",
+			"bairro_socio": "SÃO VICENTE",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "1045",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00357078950"
+			},
+			"endereco_correspondencia": "Rua 2700",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEÁRIO CAMBORIU",
+			"numero": "215",
+			"complemento": "Apto 401"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00381332969"
+			},
+			"endereco_correspondencia": "RUA SANTOS DUMONT",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "PR",
+			"cidade_socio": "FOZ DO IGUAÇU",
+			"numero": "502",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00396053963"
+			},
+			"endereco_correspondencia": "RUA SAMUEL HEUSI",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "405",
+			"complemento": "APTO 202"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00406710899"
+			},
+			"endereco_correspondencia": "Rua General Pereira da Cunha",
+			"bairro_socio": "Morumbi",
+			"uf_socio": "SP",
+			"cidade_socio": "São Paulo",
+			"numero": "155",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00451680910"
+			},
+			"endereco_correspondencia": "AVENIDA JOCA BRANDAO",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00454673230"
+			},
+			"endereco_correspondencia": "TRAVESSA NOVE DE JANEIRO",
+			"bairro_socio": "SÃO BRAS",
+			"uf_socio": "PA",
+			"cidade_socio": "BELEM",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00473395940"
+			},
+			"endereco_correspondencia": "RUA AGOSTINHO FERNANDES VIEIRA ",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00476521602"
+			},
+			"endereco_correspondencia": "RUA LUZIANO CORDEIRO",
+			"bairro_socio": "PARQUE DA FONTE",
+			"uf_socio": "PR",
+			"cidade_socio": "SÃO JOSÉ DOS PINHAIS",
+			"numero": "1050",
+			"complemento": "CASA 61"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00478904959"
+			},
+			"endereco_correspondencia": "RUA 1201",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEARIO CAMBORIU",
+			"numero": "327",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00497859742"
+			},
+			"endereco_correspondencia": "Av. das Nações Unidas",
+			"bairro_socio": "Pinheiros",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "8501",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00497859742"
+			},
+			"endereco_correspondencia": "Avenida das Nações Unidas",
+			"bairro_socio": "Pinheiros",
+			"uf_socio": "SP",
+			"cidade_socio": "São Paulo",
+			"numero": "8501",
+			"complemento": "CEP: 05.425-070"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00501309942"
+			},
+			"endereco_correspondencia": "RUA RIO GRANDE DO SUL",
+			"bairro_socio": "AGUA VERDE",
+			"uf_socio": "PR",
+			"cidade_socio": "CURITIBA",
+			"numero": "290",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00512819025"
+			},
+			"endereco_correspondencia": "Rua Alessandria",
+			"bairro_socio": "são gotardo",
+			"uf_socio": "RS",
+			"cidade_socio": "flores da cunha",
+			"numero": "1463",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00514862963"
+			},
+			"endereco_correspondencia": "RUA BRUNO TRIBESS",
+			"bairro_socio": "FORTALEZA",
+			"uf_socio": "SC",
+			"cidade_socio": "BLUMENAU",
+			"numero": "127",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00552274909"
+			},
+			"endereco_correspondencia": "Rua Lamenha Lins",
+			"bairro_socio": "Centro",
+			"uf_socio": "PR",
+			"cidade_socio": "Curitiba",
+			"numero": "415",
+			"complemento": "apartamento 2001"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00553592998"
+			},
+			"endereco_correspondencia": "Rua Pascoal Vita",
+			"bairro_socio": "Vila Madalena",
+			"uf_socio": "SP",
+			"cidade_socio": "São Paulo",
+			"numero": "535",
+			"complemento": "Apto. 1506"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00553592998"
+			},
+			"endereco_correspondencia": "Rua Pascoal Vita",
+			"bairro_socio": "Vila Madalena",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "535",
+			"complemento": "Apto. 1506"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00555199975"
+			},
+			"endereco_correspondencia": "AVENIDA LISBOA",
+			"bairro_socio": "ITOUPAVA NORTE",
+			"uf_socio": "SC",
+			"cidade_socio": "BLUMENAU",
+			"numero": "193",
+			"complemento": "APARTAMENTO"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00560379536"
+			},
+			"endereco_correspondencia": "RUA MARIA ALVES MAFRA",
+			"bairro_socio": "CIDADE NOVA ",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "08",
+			"complemento": "CASA 01"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00568752902"
+			},
+			"endereco_correspondencia": "Rua Laudelino Fermino de Novaes",
+			"bairro_socio": "Meia Praia",
+			"uf_socio": "SC",
+			"cidade_socio": "Navegantes",
+			"numero": "271",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00573606935"
+			},
+			"endereco_correspondencia": "Rua Carolina Vailatti",
+			"bairro_socio": "São Judas",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00577811924"
+			},
+			"endereco_correspondencia": "Navegantes",
+			"bairro_socio": "Vorstadt",
+			"uf_socio": "SC",
+			"cidade_socio": "Blumenau",
+			"numero": "132",
+			"complemento": "Casa 10"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00598239090"
+			},
+			"endereco_correspondencia": "RUA CARLOS BOSS",
+			"bairro_socio": "GRAVATA",
+			"uf_socio": "SC",
+			"cidade_socio": "NAVEGANTES",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00605254010"
+			},
+			"endereco_correspondencia": "RUA SÃO LEOPOLDO",
+			"bairro_socio": "FLORESTA",
+			"uf_socio": "RS",
+			"cidade_socio": "DOIS IRMÃOS ",
+			"numero": "1696",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00607317965"
+			},
+			"endereco_correspondencia": "RUA CESÁRIO CHAVES ",
+			"bairro_socio": "222",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00607317965"
+			},
+			"endereco_correspondencia": "RUA CESÁRIO CHAVES",
+			"bairro_socio": "222",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00618287930"
+			},
+			"endereco_correspondencia": "RUA MÉDICO MIGUEL SALLES CAVALCANTI",
+			"bairro_socio": "ABRAAO",
+			"uf_socio": "SC",
+			"cidade_socio": "FLORIANÓPOLIS",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00663830990"
+			},
+			"endereco_correspondencia": "Rua Antonio José Rebelo",
+			"bairro_socio": "Espinheiros",
+			"uf_socio": "SC",
+			"cidade_socio": "itajaí",
+			"numero": "546",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00680470964"
+			},
+			"endereco_correspondencia": "rua fortunato ferraz",
+			"bairro_socio": "vila anastacio",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "546",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00683628895"
+			},
+			"endereco_correspondencia": "RUA SARUMA",
+			"bairro_socio": "RUA SARUMA",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00699975948"
+			},
+			"endereco_correspondencia": "AV MARCIO FERREIRA DE MELLO E SILVA",
+			"bairro_socio": "PRAIA BRAVA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "55",
+			"complemento": "CASA 97"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00715594931"
+			},
+			"endereco_correspondencia": "RUA PEDRO CRISTIANO DE MIRANDA",
+			"bairro_socio": "SAO VICENTE",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "582",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00720717965"
+			},
+			"endereco_correspondencia": "RUA ARLECIO DE SOUZA FLOR",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "138",
+			"complemento": "APT 904"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00721156967"
+			},
+			"endereco_correspondencia": "Rua Acari Antonio Moser",
+			"bairro_socio": "DOM BOSCO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "300",
+			"complemento": "LT 47"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00721606911"
+			},
+			"endereco_correspondencia": "RUA DASCEREJEIRAS",
+			"bairro_socio": "RESSACADA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "40",
+			"complemento": "APTO 403"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00768800951"
+			},
+			"endereco_correspondencia": "RUA EXPEDICIONARIO MARQUETTI",
+			"bairro_socio": "Fazenda",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajai",
+			"numero": "119",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00781862000"
+			},
+			"endereco_correspondencia": "Rua Barão do Amazonas",
+			"bairro_socio": "Centro",
+			"uf_socio": "RS",
+			"cidade_socio": "9095",
+			"numero": "780",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00786000066"
+			},
+			"endereco_correspondencia": "RUA CURT HERING",
+			"bairro_socio": "BARRA DO RIO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "24",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00826174574"
+			},
+			"endereco_correspondencia": "RUA 3618",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEARIO CAMBORIU",
+			"numero": "29",
+			"complemento": "APT 201"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00836381998"
+			},
+			"endereco_correspondencia": "DISTRITO DE IDAMAR",
+			"bairro_socio": "INTERIOR",
+			"uf_socio": "SC",
+			"cidade_socio": "DIONISIO CERQUEIRA",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00842995099"
+			},
+			"endereco_correspondencia": "Avenida José Aloísio Filho",
+			"bairro_socio": "Humaita",
+			"uf_socio": "RS",
+			"cidade_socio": "Porto Alegre",
+			"numero": "411",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00879292954"
+			},
+			"endereco_correspondencia": "Rua: Uruguai",
+			"bairro_socio": "Centro",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "122",
+			"complemento": "Apto: 1001"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00894202928"
+			},
+			"endereco_correspondencia": "RUA HEITOR LIBERATO",
+			"bairro_socio": "SAO JUDAS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "1220",
+			"complemento": "APTO 803"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00901186007"
+			},
+			"endereco_correspondencia": "av Osvaldo Reis",
+			"bairro_socio": "Praia brava",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "2000",
+			"complemento": "apt 101"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00901186007"
+			},
+			"endereco_correspondencia": "av OSVALDO REIS",
+			"bairro_socio": "PRAIA BRAVA DE ITAJAI",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00922599955"
+			},
+			"endereco_correspondencia": "Rua Manoel Jose dos Santos",
+			"bairro_socio": "São Vicente",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "352",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00933351054"
+			},
+			"endereco_correspondencia": "RUA CORONEL CHICUTA M.",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "RS",
+			"cidade_socio": "PASSO FUNDO",
+			"numero": "64",
+			"complemento": "APTO 501"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "00992926963"
+			},
+			"endereco_correspondencia": "Rua Doutor José Bonifácio Malburg",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "412",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01021441848"
+			},
+			"endereco_correspondencia": "Rua Laplace",
+			"bairro_socio": "Brooklin Paulista",
+			"uf_socio": "SP",
+			"cidade_socio": "São Paulo",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01042856052"
+			},
+			"endereco_correspondencia": "RUA 1131",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEARIO CAMBORIU ",
+			"numero": "225",
+			"complemento": "APT 1302"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01063036941"
+			},
+			"endereco_correspondencia": "ESTRADA GERAL BOA VISTA",
+			"bairro_socio": "BOA VISTA",
+			"uf_socio": "SC",
+			"cidade_socio": "ILHOTA",
+			"numero": "S/N",
+			"complemento": "CXA POSTAL 01"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01112327088"
+			},
+			"endereco_correspondencia": "RUA NORUEGA",
+			"bairro_socio": "NACOES",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEARIO CAMBORIU",
+			"numero": "185",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01140114000"
+			},
+			"endereco_correspondencia": "Avenida Visconde de Guarapuava",
+			"bairro_socio": "Centro",
+			"uf_socio": "PR",
+			"cidade_socio": "Curitiba",
+			"numero": "4326",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01158592094"
+			},
+			"endereco_correspondencia": "RUA DELFIM MARIO PADUA PEIXOTO",
+			"bairro_socio": "Balneario santa clara",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "600",
+			"complemento": "APT:404 TORRE 04"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01176483293"
+			},
+			"endereco_correspondencia": "Rua João Américo Watzko",
+			"bairro_socio": "São Vicente",
+			"uf_socio": "SC",
+			"cidade_socio": "Navegantes",
+			"numero": "413",
+			"complemento": "Apto 202"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01220270946"
+			},
+			"endereco_correspondencia": "FERMINO VIEIRA CORDEIRO",
+			"bairro_socio": "ESPINHEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "2082",
+			"complemento": "APT 401 BLOCO B"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01224613805"
+			},
+			"endereco_correspondencia": "Rua Ministro Godoy",
+			"bairro_socio": "Perdizes",
+			"uf_socio": "SP",
+			"cidade_socio": "São Paulo",
+			"numero": "1454",
+			"complemento": "Apto. 113"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01234419513"
+			},
+			"endereco_correspondencia": "RUA ANGELO ALADINO GRECCHI",
+			"bairro_socio": "OLIMPIO",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO CAETANO DO SUL",
+			"numero": "103",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01244465666"
+			},
+			"endereco_correspondencia": "RUA BELGICA ",
+			"bairro_socio": "396",
+			"uf_socio": "MG",
+			"cidade_socio": "PASSOS",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01273351029"
+			},
+			"endereco_correspondencia": "ROMEU PEREIRA",
+			"bairro_socio": "NAÇÕES",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEÁRIO CAMOBIRÚ",
+			"numero": "84",
+			"complemento": "APTO 904"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01328888908"
+			},
+			"endereco_correspondencia": "Rua Paulo Valmor Severino",
+			"bairro_socio": "Cidade Nova",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "215",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01330917081"
+			},
+			"endereco_correspondencia": "RUA ALFREDO JULIANO",
+			"bairro_socio": "PRIMOR",
+			"uf_socio": "RS",
+			"cidade_socio": "SAPUCAIA DO SUL",
+			"numero": "550",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01373815906"
+			},
+			"endereco_correspondencia": "Rua Henrique Max Baggenstons",
+			"bairro_socio": "Saguaçu",
+			"uf_socio": "SC",
+			"cidade_socio": "JOINVILLE",
+			"numero": "68",
+			"complemento": "apt. 603"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01374128945"
+			},
+			"endereco_correspondencia": "Rua Odomiro Ferreira",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "IMBITUBA",
+			"numero": "128",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01394601018"
+			},
+			"endereco_correspondencia": "RUA ANTONIO VALENZA",
+			"bairro_socio": "FAZENDINHA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "102",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01493606905"
+			},
+			"endereco_correspondencia": "RUA DOUTOR JOSE BONIFACIO MALBURG",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "412",
+			"complemento": "APT 1203"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01669376907"
+			},
+			"endereco_correspondencia": "Rua Herculano Correa",
+			"bairro_socio": "Centro",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "127",
+			"complemento": "apto 1406"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01735589926"
+			},
+			"endereco_correspondencia": "RUA CAMPOS DO JORDÃO",
+			"bairro_socio": "PQ IND CAFEZAL",
+			"uf_socio": "PR",
+			"cidade_socio": "ROLANDIA",
+			"numero": "S/N",
+			"complemento": "LOTE 07, COND RESID COSTA DO SOL"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01765659906"
+			},
+			"endereco_correspondencia": "Rua Andre Petrelli",
+			"bairro_socio": "Jardim das Américas",
+			"uf_socio": "PR",
+			"cidade_socio": "Curitiba",
+			"numero": "310",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01791394019"
+			},
+			"endereco_correspondencia": "ROMEU PEREIRA",
+			"bairro_socio": "NAÇÕES",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEÁRIO CAMBORIÚ",
+			"numero": "84",
+			"complemento": "APTO 904"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01834811783"
+			},
+			"endereco_correspondencia": "Rua General Dionísio",
+			"bairro_socio": "Humaitá",
+			"uf_socio": "RJ",
+			"cidade_socio": "Rio de Janeiro",
+			"numero": "60/704",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01863488006"
+			},
+			"endereco_correspondencia": "Rua José Venancio dos Santos",
+			"bairro_socio": "Pioneiros",
+			"uf_socio": "SC",
+			"cidade_socio": "Balneário Camboriú",
+			"numero": "100",
+			"complemento": "Ap 1401"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01883351960"
+			},
+			"endereco_correspondencia": "RUA WALDO COSTA",
+			"bairro_socio": "POPULAR",
+			"uf_socio": "SC",
+			"cidade_socio": "LAGES",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01895285917"
+			},
+			"endereco_correspondencia": "rua Aníbal César",
+			"bairro_socio": "SÃO JUDAS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "45",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01900049082"
+			},
+			"endereco_correspondencia": "RUA ALFREDO PARODI",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "PR",
+			"cidade_socio": "ARAUCÁRIA",
+			"numero": "763",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01931527970"
+			},
+			"endereco_correspondencia": "rua lauro muller",
+			"bairro_socio": "centro",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "256",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01935622943"
+			},
+			"endereco_correspondencia": "RUA CONCORDIA",
+			"bairro_socio": "SÃO VICENTE",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "132",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "01963835107"
+			},
+			"endereco_correspondencia": "Rua Eredes Serpa",
+			"bairro_socio": "Cordeiros",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "142",
+			"complemento": "Apto 702"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02002324107"
+			},
+			"endereco_correspondencia": "RUA A29",
+			"bairro_socio": "JARDINS ATENAS",
+			"uf_socio": "GO",
+			"cidade_socio": "GOIÂNIA",
+			"numero": "0",
+			"complemento": "QUADRA D, LOTE 10"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02098697988"
+			},
+			"endereco_correspondencia": "RUA ALOISIO KORMANN",
+			"bairro_socio": "MURTA",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "45",
+			"complemento": "CASA 30"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02106788010"
+			},
+			"endereco_correspondencia": "Rua 255",
+			"bairro_socio": "Meia Praia",
+			"uf_socio": "SC",
+			"cidade_socio": "9095",
+			"numero": "120",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02116914701"
+			},
+			"endereco_correspondencia": "Rua Álvaro Andrade",
+			"bairro_socio": "Portão",
+			"uf_socio": "PR",
+			"cidade_socio": "Curitiba",
+			"numero": "225",
+			"complemento": "apartamento 3245"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02145127976"
+			},
+			"endereco_correspondencia": "Rodovia BR 116, KM 222",
+			"bairro_socio": "Area Industrial",
+			"uf_socio": "SC",
+			"cidade_socio": "CORREIA PINTO",
+			"numero": "S/N",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02201603170"
+			},
+			"endereco_correspondencia": "RUA JOSE PEREIRA LIBERATO",
+			"bairro_socio": "SAO JOAO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "1637",
+			"complemento": "APTO 802"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02203408979"
+			},
+			"endereco_correspondencia": "rua Carlos Seara",
+			"bairro_socio": "vila operaria",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "260",
+			"complemento": "bl 01 apto 1001"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02210397910"
+			},
+			"endereco_correspondencia": "Rua Telêmaco Pereira Liberato",
+			"bairro_socio": "Fazenda",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "145",
+			"complemento": "Apto 1301"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02215961945"
+			},
+			"endereco_correspondencia": "Rua Paraguassu",
+			"bairro_socio": "Bairro Juvevê",
+			"uf_socio": "PR",
+			"cidade_socio": "Curitiba",
+			"numero": "381",
+			"complemento": "Apto nº 402"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02245938976"
+			},
+			"endereco_correspondencia": "Avenida Central",
+			"bairro_socio": "Centro",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEÁRIO CAMBORIU",
+			"numero": "784",
+			"complemento": "Apto 1602"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02249906831"
+			},
+			"endereco_correspondencia": "ALAMEDA BONITO",
+			"bairro_socio": "ALPHAVILLE",
+			"uf_socio": "SP",
+			"cidade_socio": "SANTANA DE PARNAIBA",
+			"numero": "197",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02288065931"
+			},
+			"endereco_correspondencia": "SERVIDAO FRANCISCO PEDRONI",
+			"bairro_socio": "SAO JOAO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "56",
+			"complemento": "CASA 01"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02314713001"
+			},
+			"endereco_correspondencia": "RUA EREDES SERPA",
+			"bairro_socio": "CORDEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "944",
+			"complemento": "APTO 305"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02372421921"
+			},
+			"endereco_correspondencia": "RUA SEBASTIÃO BONIFÁCIO CARDOSO",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "28",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02394252782"
+			},
+			"endereco_correspondencia": "RUA SACADURA CABRAL",
+			"bairro_socio": "SAUDE",
+			"uf_socio": "RJ",
+			"cidade_socio": "RIO DE JANEIRO",
+			"numero": "102",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02485634912"
+			},
+			"endereco_correspondencia": "RUA CESARIO CHAVES",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "222",
+			"complemento": "APT 1701 BLOCO 4"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02486068910"
+			},
+			"endereco_correspondencia": "RUA GABRIELA MISTRAL",
+			"bairro_socio": "AHU",
+			"uf_socio": "PR",
+			"cidade_socio": "CURITIBA",
+			"numero": "149",
+			"complemento": "APTO 51B"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02519833904"
+			},
+			"endereco_correspondencia": "RUA DELFIM DE PÁDUA PEIXOTO",
+			"bairro_socio": "PRAIA BRAVA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "350",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02523510960"
+			},
+			"endereco_correspondencia": "RUA ITAPOA",
+			"bairro_socio": "RESSACADA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "180",
+			"complemento": "APTO 1501"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02549436083"
+			},
+			"endereco_correspondencia": "Rua Doutor Barcelos",
+			"bairro_socio": "Centro",
+			"uf_socio": "RS",
+			"cidade_socio": "Canoas",
+			"numero": "1291",
+			"complemento": "bloco 2A, apto 401"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02651205940"
+			},
+			"endereco_correspondencia": "RUA JOSE PAULO DA SILVA",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "122",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02660291918"
+			},
+			"endereco_correspondencia": "AVENIDA OSVALDO REIS",
+			"bairro_socio": "BALNEÁRIO SANTA CLARA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "3299",
+			"complemento": "UNIDADE 07 D"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02678647013"
+			},
+			"endereco_correspondencia": "AVENIDA FARROUPILHA",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "RS",
+			"cidade_socio": "Canoas",
+			"numero": "5507",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02684263094"
+			},
+			"endereco_correspondencia": "RUA ONZE DE JUNHO",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "189",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02704639922"
+			},
+			"endereco_correspondencia": "RUA CAMBORIU",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "1112",
+			"complemento": "ED. BRISA MAR, APTO 1502"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02712599900"
+			},
+			"endereco_correspondencia": "RUA EXPECICIONARIO JOSE INACIO ROCHA",
+			"bairro_socio": "SAO VICENTE",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "284",
+			"complemento": "CASA 1"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02731346043"
+			},
+			"endereco_correspondencia": "RUA FRIDOLIM HERTHAL JUNIOR",
+			"bairro_socio": "SÃO JOÃO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "290",
+			"complemento": "APTO 304"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02731483970"
+			},
+			"endereco_correspondencia": "Rua Telêmaco Pereira Liberato",
+			"bairro_socio": "Fazenda",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "145",
+			"complemento": "Apto 1301"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02738573983"
+			},
+			"endereco_correspondencia": "Rua Bom Retiro",
+			"bairro_socio": "São Vicente",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "32",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02751327907"
+			},
+			"endereco_correspondencia": "Rua Ricardo Gabriel Bauer",
+			"bairro_socio": "Ressacada",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "39",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02807977960"
+			},
+			"endereco_correspondencia": "LEONARDO TETTO",
+			"bairro_socio": "FAZENDINHA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "208",
+			"complemento": "APT 201"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02841434133"
+			},
+			"endereco_correspondencia": "AVENIDA ABRAAO JOÃO FRANCISCO",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "249",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02847254986"
+			},
+			"endereco_correspondencia": "RUA 1201",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEARIO CAMBORIU",
+			"numero": "117",
+			"complemento": "APTO 224"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02910094090"
+			},
+			"endereco_correspondencia": "Rua Sebastião Pereira dos Santos",
+			"bairro_socio": "SAO CRISTOVAO",
+			"uf_socio": "RS",
+			"cidade_socio": "PASSO FUNDO",
+			"numero": "35",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02918856088"
+			},
+			"endereco_correspondencia": "RUA 600",
+			"bairro_socio": "CENTRO ",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEARIO CAMBORIU",
+			"numero": "55",
+			"complemento": "APT 103"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02959584996"
+			},
+			"endereco_correspondencia": "TRAVESSA ARACATI",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "NAVEGANTES",
+			"numero": "54",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "02994953021"
+			},
+			"endereco_correspondencia": "RUA 951",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEÁRIO CAMBORIÚ",
+			"numero": "320",
+			"complemento": "Apto. 603"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03042329984"
+			},
+			"endereco_correspondencia": "ISIDORO CAETANO",
+			"bairro_socio": "PIONEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEÁRIO CAMBORIÚ",
+			"numero": "277",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03045849083"
+			},
+			"endereco_correspondencia": "Rua Santo Cerutti",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "RS",
+			"cidade_socio": "Frederico Westphalen",
+			"numero": "1070",
+			"complemento": "apto, 600"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03045885047"
+			},
+			"endereco_correspondencia": "Rua Santo Cerutti",
+			"bairro_socio": "Centro",
+			"uf_socio": "RS",
+			"cidade_socio": "Frederico Westphalen",
+			"numero": "1070",
+			"complemento": "Apt. 600"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03058810784"
+			},
+			"endereco_correspondencia": "Rua Doutor Paulo César",
+			"bairro_socio": "Icaraí",
+			"uf_socio": "RJ",
+			"cidade_socio": "Rio de Janeiro",
+			"numero": "137",
+			"complemento": "Bloco 3, Apto. 1104"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03165594902"
+			},
+			"endereco_correspondencia": "RUA PROFESSOR PEDRO VIRIATO PARIGOT DE SOUZA",
+			"bairro_socio": "CIDADE INDUSTRIAL",
+			"uf_socio": "PR",
+			"cidade_socio": "CURITIBA",
+			"numero": "5285",
+			"complemento": "APT 2305, TORRE 2"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03203039850"
+			},
+			"endereco_correspondencia": "Rua Continental",
+			"bairro_socio": "Jardim do Mar",
+			"uf_socio": "SP",
+			"cidade_socio": "São Bernardo do Campo",
+			"numero": "1000",
+			"complemento": "Apto 122 CEP. 09726-412"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03243423902"
+			},
+			"endereco_correspondencia": "AVENIDA MARIO URIARTE",
+			"bairro_socio": "CORDEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03252408929"
+			},
+			"endereco_correspondencia": "RUA PERNAMBUCO",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "PR",
+			"cidade_socio": "FRANCISCO BELTRÃO",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03263683969"
+			},
+			"endereco_correspondencia": "AV CARLOS DRUMOND DE ANDRADE",
+			"bairro_socio": "PRAIA BRAVA",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "189",
+			"complemento": "APTO - 301"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03299506579"
+			},
+			"endereco_correspondencia": "RUA PEDRO CAMILO VICENTE",
+			"bairro_socio": "CORDEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "230",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03300797942"
+			},
+			"endereco_correspondencia": "rua jose gall",
+			"bairro_socio": "dom bosco",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "1089",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03341065911"
+			},
+			"endereco_correspondencia": "RUA ALOISIO KORMANN",
+			"bairro_socio": "MURTA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "45",
+			"complemento": "CASA LOTE37 B"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03345802937"
+			},
+			"endereco_correspondencia": "RUA JORGE TZACHEL",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "360",
+			"complemento": "APTO 502"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03353093052"
+			},
+			"endereco_correspondencia": "RUA JOAO CAMILO VICENTE",
+			"bairro_socio": "SÃO VICENTE",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "135",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03366377720"
+			},
+			"endereco_correspondencia": "RUA HENRY DUNANT",
+			"bairro_socio": "SANTO AMARO",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "780",
+			"complemento": "13° ANDAR TORRE B"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03414184710"
+			},
+			"endereco_correspondencia": "Av. das Nações Unidas",
+			"bairro_socio": "Pinheiros",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "8501",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03468434995"
+			},
+			"endereco_correspondencia": "RUa Joao Odimar dos Santos",
+			"bairro_socio": "Ponte do Imaruim",
+			"uf_socio": "SC",
+			"cidade_socio": "Palhoça",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03476119904"
+			},
+			"endereco_correspondencia": "Rua Curt Hering",
+			"bairro_socio": "barra do rio",
+			"uf_socio": "SC",
+			"cidade_socio": "itajaí",
+			"numero": "27",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03476119904"
+			},
+			"endereco_correspondencia": "Rua Doutor Reinaldo Schmithausen",
+			"bairro_socio": "CORDEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "2540",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03484535741"
+			},
+			"endereco_correspondencia": "Av. das Nações Unidas",
+			"bairro_socio": "Pinheiros",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "8501",
+			"complemento": "CEP: 05.425-070"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03533981959"
+			},
+			"endereco_correspondencia": "RUA ACARI ANTONIO MOSER",
+			"bairro_socio": "DOM BOSCO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "300",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03542337935"
+			},
+			"endereco_correspondencia": "RUA TOPAZIO",
+			"bairro_socio": "JARDIM REAL ",
+			"uf_socio": "PR",
+			"cidade_socio": "MARINGÁ",
+			"numero": "1497",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03572857945"
+			},
+			"endereco_correspondencia": "RUA GUMERCINDO ROCHA",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "64",
+			"complemento": "APT 805"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03573237932"
+			},
+			"endereco_correspondencia": " RUA PROFESSOR PEDRO VIRIATO PARIGOT DE SOUZA",
+			"bairro_socio": "MOSSUNGUE",
+			"uf_socio": "PR",
+			"cidade_socio": "Curitiba",
+			"numero": "1861",
+			"complemento": "AP 1901"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03582471950"
+			},
+			"endereco_correspondencia": "RUA AMAPÁ",
+			"bairro_socio": "CORDEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "185",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03585528856"
+			},
+			"endereco_correspondencia": "RUA DIOGO FEIJO",
+			"bairro_socio": "ESTAÇÃO",
+			"uf_socio": "SP",
+			"cidade_socio": "FRANCA",
+			"numero": "2726",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03588383980"
+			},
+			"endereco_correspondencia": "Rua das gaivotas, 394 residencial Andorinhas",
+			"bairro_socio": "Alphaville Graciosa",
+			"uf_socio": "PR",
+			"cidade_socio": "Pinhais",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03636749935"
+			},
+			"endereco_correspondencia": "rua carlos seara",
+			"bairro_socio": "villa operaria",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "352",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03641263964"
+			},
+			"endereco_correspondencia": "RUA ANTENOR JOSE TEDESCHI",
+			"bairro_socio": "CAJURU",
+			"uf_socio": "PR",
+			"cidade_socio": "CURITIBA",
+			"numero": "78",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03660251984"
+			},
+			"endereco_correspondencia": "RUA LUZIANO CORDEIRO",
+			"bairro_socio": "PARQUE DA FONTE",
+			"uf_socio": "PR",
+			"cidade_socio": "SÃO JOSÉ DOS PINHAIS",
+			"numero": "1050",
+			"complemento": "CASA 61"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03691608787"
+			},
+			"endereco_correspondencia": "rua cecilia meireles ",
+			"bairro_socio": "recreio dos bendeiranres ",
+			"uf_socio": "RJ",
+			"cidade_socio": "rio de janeiro ",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03713209928"
+			},
+			"endereco_correspondencia": "RUA SOLDADO ABELARDO MENDONÇA SOBRNHO",
+			"bairro_socio": "RESSACADA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "100",
+			"complemento": "APT 13"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03733895908"
+			},
+			"endereco_correspondencia": "AVENIDA MARCIO FERREIRA DE MELLO E SILVA",
+			"bairro_socio": "PRAIA BRAVA DE ITAJAÍ",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "55",
+			"complemento": "LOTE 92"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03743595982"
+			},
+			"endereco_correspondencia": "RUA PEDRO CRISTIANO DE MIRANDA",
+			"bairro_socio": "SAO VICENTE",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "1156",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03750251975"
+			},
+			"endereco_correspondencia": "RUA NOVA TRENTO",
+			"bairro_socio": "SÃO VICENTE",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "96",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03789457930"
+			},
+			"endereco_correspondencia": "Telemaco Pereira Liberato",
+			"bairro_socio": "Fazenda",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03832303901"
+			},
+			"endereco_correspondencia": "RUA VASCO DA GAMA",
+			"bairro_socio": "VILA MARUMBY",
+			"uf_socio": "PR",
+			"cidade_socio": "MARINGÁ",
+			"numero": "41",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03832758909"
+			},
+			"endereco_correspondencia": "Rua Germano Montibeller",
+			"bairro_socio": "Dom Bosco",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "356",
+			"complemento": "casa 02"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03862893952"
+			},
+			"endereco_correspondencia": "Rua Cento e Sessenta e Cinco",
+			"bairro_socio": "Peperi Guaçu",
+			"uf_socio": "SC",
+			"cidade_socio": "Dionisio Cerqueira",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03895023914"
+			},
+			"endereco_correspondencia": "RUA DOMINGOS NUNES DOS SANTOS",
+			"bairro_socio": "SANTA REGINA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "105",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "03922446914"
+			},
+			"endereco_correspondencia": "RUA CAP AUGUSTO VIDAL",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "PALHOÇA",
+			"numero": "3430",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04048222902"
+			},
+			"endereco_correspondencia": "Rua Anibal Cezar",
+			"bairro_socio": "São Judas",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "20",
+			"complemento": "Apt 503"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04057220950"
+			},
+			"endereco_correspondencia": "RUA ARTUR TORQUATO BATISTA",
+			"bairro_socio": "FAZENDINHA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "380",
+			"complemento": "CASA 02"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04058465093"
+			},
+			"endereco_correspondencia": "Rua Israel",
+			"bairro_socio": "Nações",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEÁRIO CAMBORIÚ",
+			"numero": "431",
+			"complemento": "Bloco 05, Ap 403"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04136256990"
+			},
+			"endereco_correspondencia": "RUA URUGUAI",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "375",
+			"complemento": "APTO 305 - BL B"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04160546927"
+			},
+			"endereco_correspondencia": "RUA BRUSQUE",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04160546927"
+			},
+			"endereco_correspondencia": "Rua Brusque",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "121",
+			"complemento": "APT 1202"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04204362940"
+			},
+			"endereco_correspondencia": "Rua Camboriu",
+			"bairro_socio": "Fazenda",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajai",
+			"numero": "1112",
+			"complemento": "apo 401"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04242507992"
+			},
+			"endereco_correspondencia": "Rua Suecia",
+			"bairro_socio": "Praia Brava",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "300",
+			"complemento": "Apto 723 Bloco A"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04249066355"
+			},
+			"endereco_correspondencia": "AVENIDA ELIEZER XIMENES RODRIGUES",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "CE",
+			"cidade_socio": "Cascavel",
+			"numero": "3369",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04391103940"
+			},
+			"endereco_correspondencia": "RUA AMAPÁ",
+			"bairro_socio": "CORDEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "185",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04402784905"
+			},
+			"endereco_correspondencia": "RUA MAURICIO DE SOUZA",
+			"bairro_socio": "CORDEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "515",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04466763810"
+			},
+			"endereco_correspondencia": "Avenida das Nações Unidas",
+			"bairro_socio": "Pinheiros",
+			"uf_socio": "SP",
+			"cidade_socio": "São Paulo",
+			"numero": "8501",
+			"complemento": "CEP: 05.425-070"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04472432927"
+			},
+			"endereco_correspondencia": "Rua Lauro Muller",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "306",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04501188944"
+			},
+			"endereco_correspondencia": "rua domingos jose cabral",
+			"bairro_socio": "fazenda",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "94",
+			"complemento": "apto 702"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04535067988"
+			},
+			"endereco_correspondencia": "RUA HEITOR LIBERATO",
+			"bairro_socio": "SAO JOAO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "2150",
+			"complemento": "BLOCO B APTO 105"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04553746948"
+			},
+			"endereco_correspondencia": "Rua Aristides Pedroni",
+			"bairro_socio": "Itaipava",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "515",
+			"complemento": "casa 45"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04554304540"
+			},
+			"endereco_correspondencia": "RUA HENRIQUE R G HENNING",
+			"bairro_socio": "Gloria",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "102",
+			"complemento": "BLOCO 06 APT 204"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04575060917"
+			},
+			"endereco_correspondencia": "RUA GENI DAMIANI",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "PR",
+			"cidade_socio": "BARRACÃO",
+			"numero": "126",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04581269938"
+			},
+			"endereco_correspondencia": "Rua Das Laranjeiras",
+			"bairro_socio": "Pedra Branca",
+			"uf_socio": "SC",
+			"cidade_socio": "Palhoça",
+			"numero": "235",
+			"complemento": "Apto 104"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04595687796"
+			},
+			"endereco_correspondencia": "Rua Colon",
+			"bairro_socio": "Glória",
+			"uf_socio": "SC",
+			"cidade_socio": "Joinville",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04607893927"
+			},
+			"endereco_correspondencia": "Av. Armando Petrelli",
+			"bairro_socio": "centro",
+			"uf_socio": "SC",
+			"cidade_socio": "BARRA VELHA",
+			"numero": "345",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04616730962"
+			},
+			"endereco_correspondencia": "RUA VEREADOR JOAO ANGELINO LOPES JUNIOR",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "133",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04650184916"
+			},
+			"endereco_correspondencia": "Rua José Gall",
+			"bairro_socio": "DOM BOSCO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04666262903"
+			},
+			"endereco_correspondencia": "Jose Luiz Marcelino",
+			"bairro_socio": "Murta",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "650",
+			"complemento": "Apto 203"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04689664390"
+			},
+			"endereco_correspondencia": "Rua Odomiro Ferreira",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "IMBITUBA",
+			"numero": "128",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04700719907"
+			},
+			"endereco_correspondencia": "AVENIDA DAS ARAPONGAS",
+			"bairro_socio": "ARIRIBA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "1265",
+			"complemento": "COND HARAS RIO DO OURO CASA"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04722716951"
+			},
+			"endereco_correspondencia": "RUA 3010",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEARIO CAMBORIÚ",
+			"numero": "160",
+			"complemento": "APTO 601"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04740698935"
+			},
+			"endereco_correspondencia": "RUA IRMAO LEAO MAGNO",
+			"bairro_socio": "AMIZADE",
+			"uf_socio": "SC",
+			"cidade_socio": "JARAGUA DO SUL",
+			"numero": "138",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04763458981"
+			},
+			"endereco_correspondencia": "RUA CAP AUGUSTO VIDAL",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "PALHOÇA",
+			"numero": "3430",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04775934619"
+			},
+			"endereco_correspondencia": "Rua Maria das Neves de Jesus",
+			"bairro_socio": "Fatima",
+			"uf_socio": "MG",
+			"cidade_socio": "VIÇOSA",
+			"numero": "91",
+			"complemento": "Apto. 501"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04799293940"
+			},
+			"endereco_correspondencia": "RUA MACARICO",
+			"bairro_socio": "ARIRIBA",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEARIO CAMBORIU",
+			"numero": "15",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04806524905"
+			},
+			"endereco_correspondencia": "R. JOSE LUIS MARCELINO",
+			"bairro_socio": "CORDEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "111",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04810027902"
+			},
+			"endereco_correspondencia": "AVENIDA CENTRAL",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNERIO CAMBORIU",
+			"numero": "511",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04829643919"
+			},
+			"endereco_correspondencia": "RUA JOSE QUIRINO",
+			"bairro_socio": "SÃO JOÃO",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "365",
+			"complemento": "APTO 502A"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04832385461"
+			},
+			"endereco_correspondencia": "Rua Mario Bento Dos Passos",
+			"bairro_socio": "Cordeiros",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "194",
+			"complemento": "APT: 111"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04837157947"
+			},
+			"endereco_correspondencia": "AV ATLANTICA",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEARIO CAMBORIU",
+			"numero": "1090",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04914099829"
+			},
+			"endereco_correspondencia": "Rua Ouro Branco",
+			"bairro_socio": "Jardim Paulista",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "54",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04920523955"
+			},
+			"endereco_correspondencia": "RUA ELIAS BRICH ADAIME",
+			"bairro_socio": "RESSACADA ",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "45",
+			"complemento": "CASA 01"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04942983916"
+			},
+			"endereco_correspondencia": "R LAURO MULLER",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "306",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "04996453834"
+			},
+			"endereco_correspondencia": "AVENIDA GETULIO VARGAS",
+			"bairro_socio": "VILA AVIAÇÃO",
+			"uf_socio": "SE",
+			"cidade_socio": "BAURU",
+			"numero": "25-25",
+			"complemento": "APTO 304 A "
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05011983935"
+			},
+			"endereco_correspondencia": "Onze de Junho",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "233",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05036164946"
+			},
+			"endereco_correspondencia": "RUA FERMINO VIEIRA CORDEIRO",
+			"bairro_socio": "ESPINHEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "1284",
+			"complemento": "APTO 411 - BLOCO 4"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05066684875"
+			},
+			"endereco_correspondencia": "RUA WALTER SARNO FIDALGO",
+			"bairro_socio": "JARDIM ALTOS DE SUZANO",
+			"uf_socio": "SP",
+			"cidade_socio": "SUZANO",
+			"numero": "210",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05077169900"
+			},
+			"endereco_correspondencia": "Rua Paulo Herbst",
+			"bairro_socio": "Cabeçudas",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "30",
+			"complemento": "Apto. 02"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05104737926"
+			},
+			"endereco_correspondencia": "Rua Alberto Werner",
+			"bairro_socio": "Vila Operária",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "409",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05113562858"
+			},
+			"endereco_correspondencia": "Jose Gall",
+			"bairro_socio": "Dom Bosco",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí ",
+			"numero": "1121",
+			"complemento": "Apto 301, Bloco A"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05115319900"
+			},
+			"endereco_correspondencia": "rua brusque",
+			"bairro_socio": "centro",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05119662960"
+			},
+			"endereco_correspondencia": "RUA DELFIM MARIO DE PADUA PEIXOTO",
+			"bairro_socio": "PRAIA BRAVA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05122869901"
+			},
+			"endereco_correspondencia": "rua camboriu1",
+			"bairro_socio": "fazenda",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "1112",
+			"complemento": "apto 40"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05165788989"
+			},
+			"endereco_correspondencia": "RUA UMBELINO DAMASIO DE BRITO",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "184",
+			"complemento": "APT 01"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05170260741"
+			},
+			"endereco_correspondencia": "Rua General Rondon",
+			"bairro_socio": "São Francisco",
+			"uf_socio": "RJ",
+			"cidade_socio": "NITEROI",
+			"numero": "167",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05188681927"
+			},
+			"endereco_correspondencia": "RUA AMAPA",
+			"bairro_socio": "CORDEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "261",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05239250774"
+			},
+			"endereco_correspondencia": "RUA DELFIM MARIO DE PADUA PEIXOTO",
+			"bairro_socio": "PRAIA BRAVA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "1110",
+			"complemento": "APT 801"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05259909925"
+			},
+			"endereco_correspondencia": "MARGINAL BR 101",
+			"bairro_socio": "ITAJUBA",
+			"uf_socio": "SC",
+			"cidade_socio": "BARRA VELHA",
+			"numero": "2311",
+			"complemento": "APTO 801"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05262812945"
+			},
+			"endereco_correspondencia": "Rua Jose Albano Volkmer",
+			"bairro_socio": "Jardim do Salso",
+			"uf_socio": "RS",
+			"cidade_socio": "PORTO ALEGRE",
+			"numero": "230",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05267351989"
+			},
+			"endereco_correspondencia": "Rua Delfim Mário Pádua Peixoto",
+			"bairro_socio": "PRAIA BRAVA ",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "350",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05304146948"
+			},
+			"endereco_correspondencia": "RUA SANTA LUZIA",
+			"bairro_socio": "DOM BOSCO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "45",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05316023978"
+			},
+			"endereco_correspondencia": "RUA ONZE DE JUNHO",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "189",
+			"complemento": "APT 1103"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05346713905"
+			},
+			"endereco_correspondencia": "RUA ELIAS BRICH ADAIME",
+			"bairro_socio": "RESSACADA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "118",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05364185940"
+			},
+			"endereco_correspondencia": "88301205",
+			"bairro_socio": "AV SETE DE SETEMBRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05374423916"
+			},
+			"endereco_correspondencia": "RUA MEXICO",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "IBIRAMA",
+			"numero": "27",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05394193975"
+			},
+			"endereco_correspondencia": "RUA EXPEDICIONARIO MARQUETTI",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "119",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05394194947"
+			},
+			"endereco_correspondencia": "RUA JOSE NICOLAU ABAGE",
+			"bairro_socio": "BIGORRILHO",
+			"uf_socio": "PR",
+			"cidade_socio": "CURITIBA",
+			"numero": "225",
+			"complemento": "APT 201"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05403575960"
+			},
+			"endereco_correspondencia": "Avenida Antônio Joaquim Tavares",
+			"bairro_socio": "Loteamento Jardim Armação I,",
+			"uf_socio": "SC",
+			"cidade_socio": "Penha",
+			"numero": "1354",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05474847980"
+			},
+			"endereco_correspondencia": "RUA: VEREADOR JOÃO AVELINO LOPES JUNIOR",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "186",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05482167976"
+			},
+			"endereco_correspondencia": "RUA LAUDELINA DIONISIO",
+			"bairro_socio": "CORDEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "257",
+			"complemento": "BLOCO C APTO 205"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05643502909"
+			},
+			"endereco_correspondencia": "RUA JOAO CAMILO VICENTE",
+			"bairro_socio": "São Vicente",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "135",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05660892701"
+			},
+			"endereco_correspondencia": "Avenida Embaixador Abelardo Bueno",
+			"bairro_socio": "Barra da Tijuca",
+			"uf_socio": "RJ",
+			"cidade_socio": "Rio de Janeiro",
+			"numero": "2510",
+			"complemento": "APARTAMENTO 1102, BLOCO 01"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05716540000190"
+			},
+			"endereco_correspondencia": "RUA PADRE JOAO MANUEL",
+			"bairro_socio": "JARDIM AMERICA",
+			"uf_socio": "SP",
+			"cidade_socio": "SAO PAULO",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05759330977"
+			},
+			"endereco_correspondencia": "RUA JOSÉ GALL",
+			"bairro_socio": "DOM BOSCO",
+			"uf_socio": "CE",
+			"cidade_socio": "ITAJAI",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05772056000188"
+			},
+			"endereco_correspondencia": "RUA PARA 50",
+			"bairro_socio": "CJ",
+			"uf_socio": "SP",
+			"cidade_socio": "SAO PAULO",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05772056000188"
+			},
+			"endereco_correspondencia": "Rua Pará",
+			"bairro_socio": "Consolação",
+			"uf_socio": "SP",
+			"cidade_socio": "São Paulo",
+			"numero": "50",
+			"complemento": "14º andar, Cj. 141, CEP 01.243-020"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05831330966"
+			},
+			"endereco_correspondencia": "Rua Lauro Muller",
+			"bairro_socio": "fazenda",
+			"uf_socio": "SC",
+			"cidade_socio": "itajai",
+			"numero": "1034",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05862626956"
+			},
+			"endereco_correspondencia": "RUA CAMBORIU",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "465",
+			"complemento": "APTO 1401"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05864736961"
+			},
+			"endereco_correspondencia": "AVENIDA JULIO ASSIS CAVALHEIRO",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "PR",
+			"cidade_socio": "FRANCISCO BELTRÃO",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05878718901"
+			},
+			"endereco_correspondencia": "Rua Vereador Claudino José Pacheco",
+			"bairro_socio": "São João",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "173",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05884432984"
+			},
+			"endereco_correspondencia": "Rua Heitor Liberato",
+			"bairro_socio": "São João ",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "1220",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05884432984"
+			},
+			"endereco_correspondencia": "Rua Heitor Liberato",
+			"bairro_socio": "São João",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "1220",
+			"complemento": "apto 702"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05955772707"
+			},
+			"endereco_correspondencia": "RUA HENRY DUNANT",
+			"bairro_socio": "SANTO AMARO",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "780",
+			"complemento": "13° ANDAR TORRE B"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05960555956"
+			},
+			"endereco_correspondencia": "RUA LUIZ BERLIM",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "38",
+			"complemento": "APT 504"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05960618974"
+			},
+			"endereco_correspondencia": "RUA ANTONIO ADAO DIAS",
+			"bairro_socio": "SAO JUDAS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "389",
+			"complemento": "APTO 601 BL B"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05960618974"
+			},
+			"endereco_correspondencia": "RUA ANTONIO ADÃO DIAS",
+			"bairro_socio": "SAO JUDAS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "389",
+			"complemento": "APTO 601, BL B"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "05962449916"
+			},
+			"endereco_correspondencia": "Rua Antônio Meneses Vasconcelos Drumond",
+			"bairro_socio": "Centro",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "257",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06003703806"
+			},
+			"endereco_correspondencia": "RUA IBIAPABA",
+			"bairro_socio": "VILA SONIA",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "67",
+			"complemento": "APTO 116"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06075905995"
+			},
+			"endereco_correspondencia": "RUA: CECILIA BRANDÃO",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "58",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06140950422"
+			},
+			"endereco_correspondencia": "RUA RANGEL PESTANA",
+			"bairro_socio": "BANGU",
+			"uf_socio": "RJ",
+			"cidade_socio": "RIO DE JANEIRO",
+			"numero": "30",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06219007964"
+			},
+			"endereco_correspondencia": "RUA DEPUTADO JOAO LEOPOLDO JACOMEL",
+			"bairro_socio": "PEDRO MORO",
+			"uf_socio": "PR",
+			"cidade_socio": "SAO JOSE DOS PINHAIS",
+			"numero": "755",
+			"complemento": "APTO 301"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06301609964"
+			},
+			"endereco_correspondencia": "RUA EMILIO DA CRUZ COUTINHO",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06301618955"
+			},
+			"endereco_correspondencia": "RUA LICO AMARAL",
+			"bairro_socio": "DOM BOSCO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06319870966"
+			},
+			"endereco_correspondencia": "Rua Germano Montibeller",
+			"bairro_socio": "Dom Bosco",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "356",
+			"complemento": "casa 02"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06346962973"
+			},
+			"endereco_correspondencia": "Rua 264",
+			"bairro_socio": "Meia Praia",
+			"uf_socio": "SC",
+			"cidade_socio": "Itapema",
+			"numero": "116",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06367389903"
+			},
+			"endereco_correspondencia": "Rua Santo Antônio",
+			"bairro_socio": "SÂO JUDAS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "28",
+			"complemento": "Apto 102, Edifício Tour Soleil"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06425284978"
+			},
+			"endereco_correspondencia": "RUA SILVESTRO MOSER",
+			"bairro_socio": "CORDEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "205",
+			"complemento": "CASA"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06466344614"
+			},
+			"endereco_correspondencia": "ALAMEDA DO INGA",
+			"bairro_socio": "VALE DO SERENO",
+			"uf_socio": "MG",
+			"cidade_socio": "NOVA LIMA",
+			"numero": "494",
+			"complemento": "APTO 1101"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06472326932"
+			},
+			"endereco_correspondencia": "Rua Itajaí",
+			"bairro_socio": "São Domingos",
+			"uf_socio": "SC",
+			"cidade_socio": "Navegantes",
+			"numero": "361",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06499904988"
+			},
+			"endereco_correspondencia": "RUA ANGELO RODI",
+			"bairro_socio": "DOM BOSCO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06519258946"
+			},
+			"endereco_correspondencia": "RUA JASIEL JOSE DA ROSA",
+			"bairro_socio": "SÃO VICENTE",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "659",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06526688950"
+			},
+			"endereco_correspondencia": "RUA JUVENAL GARCIA",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "246",
+			"complemento": "APT 501"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06571624931"
+			},
+			"endereco_correspondencia": "RUA ABDON DAVID SCHMITT",
+			"bairro_socio": "SÃO JUDAS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "363",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06589134928"
+			},
+			"endereco_correspondencia": "RUA BEZERRA MENEZES",
+			"bairro_socio": "CONTA DINHEIRO",
+			"uf_socio": "SC",
+			"cidade_socio": "LAGES",
+			"numero": "52",
+			"complemento": "APTO 102"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06593899917"
+			},
+			"endereco_correspondencia": "RUA AUGUSTO RUSCHI",
+			"bairro_socio": "ITOUPAVA CENTRAL",
+			"uf_socio": "SC",
+			"cidade_socio": "BLUMENAU",
+			"numero": "76",
+			"complemento": "LOTE"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06636027932"
+			},
+			"endereco_correspondencia": "Rua Anibal Domingos Pires",
+			"bairro_socio": "Jardim São Tomas",
+			"uf_socio": "PR",
+			"cidade_socio": "Londrina",
+			"numero": "12501",
+			"complemento": "casa 02, CEP 86073-620"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06681856942"
+			},
+			"endereco_correspondencia": "Rua Laudelino Fermino de Novaes",
+			"bairro_socio": "Meia Praia",
+			"uf_socio": "SC",
+			"cidade_socio": "Navegantes",
+			"numero": "271",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06709632911"
+			},
+			"endereco_correspondencia": "Rua Delfim Mário Pádua Peixoto",
+			"bairro_socio": "Praia Brava",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "350",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06713369910"
+			},
+			"endereco_correspondencia": "88317279",
+			"bairro_socio": "espinheiros",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06723043928"
+			},
+			"endereco_correspondencia": "RUA ITAPOA",
+			"bairro_socio": "RESSACADA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "180",
+			"complemento": "APTO 101, BLOCO B"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06773238919"
+			},
+			"endereco_correspondencia": "RUA COMANDANTE DIDIO COSTA",
+			"bairro_socio": "ESTRADINHA",
+			"uf_socio": "PR",
+			"cidade_socio": "PARANAGUÁ",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06786220940"
+			},
+			"endereco_correspondencia": "rua hildebrando jose da silva",
+			"bairro_socio": "são joão ",
+			"uf_socio": "SC",
+			"cidade_socio": "itajai",
+			"numero": "795",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06793372963"
+			},
+			"endereco_correspondencia": "Rua Felisberto Fiore D orazio",
+			"bairro_socio": "Santa Felicidade",
+			"uf_socio": "PR",
+			"cidade_socio": "CURITIBA",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06846968946"
+			},
+			"endereco_correspondencia": "RUA ITAPOA",
+			"bairro_socio": "RESSACADA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "180",
+			"complemento": "APT 1604B RESIDENCIAL DUETTO ART RESIDENCE"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06951900914"
+			},
+			"endereco_correspondencia": "Avenida Visconde de Guarapuava",
+			"bairro_socio": "Centro",
+			"uf_socio": "PR",
+			"cidade_socio": "Curitiba",
+			"numero": "4326",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06961222943"
+			},
+			"endereco_correspondencia": "Pedro Cristiano de Miranda",
+			"bairro_socio": " São Vicente",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "1013",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06973303978"
+			},
+			"endereco_correspondencia": "RUA FRANCISCO PIERMANN",
+			"bairro_socio": "VILA LENZI",
+			"uf_socio": "SC",
+			"cidade_socio": "JARAGUÁ DO SUL",
+			"numero": "489",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "06998578997"
+			},
+			"endereco_correspondencia": "R GUSTAVO BERNEDT",
+			"bairro_socio": "CORDEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07006495903"
+			},
+			"endereco_correspondencia": "RUA DAS HORTENCIAS",
+			"bairro_socio": "Cidade Nova ",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí ",
+			"numero": "605",
+			"complemento": "Apto 906 B"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07021503989"
+			},
+			"endereco_correspondencia": "Rua José Henrique Flores",
+			"bairro_socio": "Carvalho",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "178",
+			"complemento": "apto 1004"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07049332925"
+			},
+			"endereco_correspondencia": "RUA HERCULANO CORREA",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "127",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07086306851"
+			},
+			"endereco_correspondencia": "ALAMEDA JUNDIAÍ",
+			"bairro_socio": "ALPHAVILLE",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "91",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07104505164"
+			},
+			"endereco_correspondencia": "RUA DA PÁTRIA",
+			"bairro_socio": "VILA TAVEIROPÓLIS",
+			"uf_socio": "MS",
+			"cidade_socio": "CAMPO GRANDE",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07121866978"
+			},
+			"endereco_correspondencia": "Rua Erminio Machado",
+			"bairro_socio": "Cordeiros",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "465",
+			"complemento": "casa 03"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07175632860"
+			},
+			"endereco_correspondencia": "Rua das Tulipas",
+			"bairro_socio": "Jd Florida",
+			"uf_socio": "SP",
+			"cidade_socio": "Franca",
+			"numero": "531",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07230082994"
+			},
+			"endereco_correspondencia": "Rua Paulo Herbst",
+			"bairro_socio": "Cabeçudas",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "30",
+			"complemento": "Apto. 02"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07247392975"
+			},
+			"endereco_correspondencia": "RUA INDAIAL",
+			"bairro_socio": "DOM BOSCO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "1060",
+			"complemento": "APTO 503"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07259302925"
+			},
+			"endereco_correspondencia": "RUA JOSE JOAQUIM DOS SANTOS",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "521",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07267588921"
+			},
+			"endereco_correspondencia": "Rua Gaspar",
+			"bairro_socio": "São Judas ",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí ",
+			"numero": "167",
+			"complemento": "APT 704"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07271129960"
+			},
+			"endereco_correspondencia": "RUA ASA NORTE",
+			"bairro_socio": "JARDIM CASA GRANDE",
+			"uf_socio": "PR",
+			"cidade_socio": "CIDADE DE CAMBÉ",
+			"numero": "549",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07287997827"
+			},
+			"endereco_correspondencia": "Rua General Pereira da Cunha",
+			"bairro_socio": "Morumbi",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "155",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07288847985"
+			},
+			"endereco_correspondencia": "RUA ONZE DE JUNHO",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "309",
+			"complemento": "AP 1301"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07333941914"
+			},
+			"endereco_correspondencia": "RUA LUIZ LOPES GONZAGA",
+			"bairro_socio": "SAO VICENTE",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "1421",
+			"complemento": "APT 051 BLOCO B"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07356860929"
+			},
+			"endereco_correspondencia": "RUA SAMUEL HEUSI JUNIOR",
+			"bairro_socio": "CABEÇUDAS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "50",
+			"complemento": "APTO 33"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07365816937"
+			},
+			"endereco_correspondencia": "Rua Antonio Ayres dos Santos",
+			"bairro_socio": "Sao Vicente",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "1302",
+			"complemento": "apto 602"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07370204901"
+			},
+			"endereco_correspondencia": "Rua José Rosa",
+			"bairro_socio": " Cordeiros",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "1001",
+			"complemento": "CEP 88.310-640"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07418005946"
+			},
+			"endereco_correspondencia": "Rua José Francisco Reis",
+			"bairro_socio": "Santa Regina",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07428538882"
+			},
+			"endereco_correspondencia": "Rua Ordenações Afonsinas",
+			"bairro_socio": "Vila Morse",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "117",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07436588923"
+			},
+			"endereco_correspondencia": "RUA CAMBORIU",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "1112",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07453042909"
+			},
+			"endereco_correspondencia": "R JULIO WILLERDING",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "181",
+			"complemento": "APTO 21"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07465805929"
+			},
+			"endereco_correspondencia": "RUA SANTA CATARINA",
+			"bairro_socio": "CORDEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "41",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07477455952"
+			},
+			"endereco_correspondencia": "RUA PAULO CARAMURU DA SILVA",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "160",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07502800859"
+			},
+			"endereco_correspondencia": "Rua Barão do Rio Branco",
+			"bairro_socio": "Centro",
+			"uf_socio": "SP",
+			"cidade_socio": "Capivari",
+			"numero": "1445",
+			"complemento": "apto 35"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07548328990"
+			},
+			"endereco_correspondencia": "Avenida Martin Luther",
+			"bairro_socio": "Victor Konder",
+			"uf_socio": "SC",
+			"cidade_socio": "BLUMENAU",
+			"numero": "1314",
+			"complemento": "Apto. 503"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07569102932"
+			},
+			"endereco_correspondencia": "RUA INDAIAL",
+			"bairro_socio": "DOM BOSCO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "161",
+			"complemento": "APT:302B"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07664888964"
+			},
+			"endereco_correspondencia": "RUA PAULO GOSKI",
+			"bairro_socio": "MOSSUNGUE",
+			"uf_socio": "PR",
+			"cidade_socio": "CURITIBA",
+			"numero": "1175",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07667618941"
+			},
+			"endereco_correspondencia": "RUA DOM CARLOS",
+			"bairro_socio": "VILA REAL",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEARIO CAMBORIU",
+			"numero": "48",
+			"complemento": "AP 103 bl A"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07671368000120"
+			},
+			"endereco_correspondencia": "Rua Camboriú",
+			"bairro_socio": "Fazenda",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "1060",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07671368000120"
+			},
+			"endereco_correspondencia": "Rua Telêmaco Pereira Liberato",
+			"bairro_socio": "Fazenda",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "145",
+			"complemento": "Apto 1301"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07683862924"
+			},
+			"endereco_correspondencia": "RUA JAMAICA",
+			"bairro_socio": "NAÇÕES",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEÁRIO CAMBORIÚ ",
+			"numero": "191",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07690802940"
+			},
+			"endereco_correspondencia": "Rua: José Tedeo",
+			"bairro_socio": "São Judas",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "133",
+			"complemento": "Apto.403"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07712886970"
+			},
+			"endereco_correspondencia": "Rua Herculano Correa",
+			"bairro_socio": "centro",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "84",
+			"complemento": "apt 401"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07722063926"
+			},
+			"endereco_correspondencia": "RUA BRUSQUE",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "40",
+			"complemento": "AP 301"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07744851919"
+			},
+			"endereco_correspondencia": "RUA DOUTOR HOMERO DE MIRANDA GOMES",
+			"bairro_socio": "FUNDOS ",
+			"uf_socio": "SC",
+			"cidade_socio": "BIGUAÇU",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07781272900"
+			},
+			"endereco_correspondencia": "RUA FREDERICO RAMLOW",
+			"bairro_socio": "VILA BECKER",
+			"uf_socio": "SC",
+			"cidade_socio": "SANTO AMARO DA IMPERATRIZ",
+			"numero": "141",
+			"complemento": "APTO 203"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07787913940"
+			},
+			"endereco_correspondencia": "ERCIDES MAFRA",
+			"bairro_socio": "DOM BOSCO",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "45",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07861870936"
+			},
+			"endereco_correspondencia": "RUA MARIA DOS DORES SANTOS MULLER",
+			"bairro_socio": "PRAIA BRAVA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07862939930"
+			},
+			"endereco_correspondencia": "RUA TUBARÃO",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "192",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07902004901"
+			},
+			"endereco_correspondencia": "R JULIO WILLERDING",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "181",
+			"complemento": "APTO 21"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07957869998"
+			},
+			"endereco_correspondencia": "RUA 4450",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEÁRIO CAMBORIÚ",
+			"numero": "100",
+			"complemento": "APTO 902"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07961593195"
+			},
+			"endereco_correspondencia": "Rua Charles Spencer Chaplin",
+			"bairro_socio": "Vila Andrade",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "120",
+			"complemento": "apto. 1707 A"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "07986981954"
+			},
+			"endereco_correspondencia": "Rua: das Gaivotas",
+			"bairro_socio": "Alphaville Graciosa",
+			"uf_socio": "PR",
+			"cidade_socio": "Pinhais",
+			"numero": "394",
+			"complemento": "Residencial Andorinhas"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "08060692798"
+			},
+			"endereco_correspondencia": "Rua Lauro Muller",
+			"bairro_socio": "Jardim Blumenau",
+			"uf_socio": "SC",
+			"cidade_socio": "Blumenau",
+			"numero": "455",
+			"complemento": "Apto. 101"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "08107485840"
+			},
+			"endereco_correspondencia": "Rua: Kalil Francis",
+			"bairro_socio": "Jardim Rony",
+			"uf_socio": "SP",
+			"cidade_socio": "Guaratingueta",
+			"numero": "176",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "08132236955"
+			},
+			"endereco_correspondencia": "Rua 278",
+			"bairro_socio": "Meia Praia",
+			"uf_socio": "SC",
+			"cidade_socio": "Itapema",
+			"numero": "638",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "08141759965"
+			},
+			"endereco_correspondencia": "RUA DOUTOR PEDRO FERREIRA",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "71",
+			"complemento": "APT 1207"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "08176617946"
+			},
+			"endereco_correspondencia": "RUA DESEMBARGADOR MOTTA",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "PR",
+			"cidade_socio": "CURITIBA",
+			"numero": "1648",
+			"complemento": "BL 1, APTO 183"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "08186436928"
+			},
+			"endereco_correspondencia": "AVENIDA MARIO URIARTE",
+			"bairro_socio": "CORDEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "975",
+			"complemento": "CASA 14"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "08229517975"
+			},
+			"endereco_correspondencia": "R QUINZE DE NOVEMBRO",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "580",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "08279546979"
+			},
+			"endereco_correspondencia": "RUA SAMUEL HEUSI JUNIOR",
+			"bairro_socio": "CABEÇUDAS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "94",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "08387204986"
+			},
+			"endereco_correspondencia": "Rua Presidente Nereu Ramos",
+			"bairro_socio": "Campinas",
+			"uf_socio": "SC",
+			"cidade_socio": "São José",
+			"numero": "1100",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "08387204986"
+			},
+			"endereco_correspondencia": "Rua Samuel Heusi",
+			"bairro_socio": "Centro",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "463",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "08468393932"
+			},
+			"endereco_correspondencia": "AV ITAIPAVA",
+			"bairro_socio": "ITAIPAVA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "2005",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "08480295775"
+			},
+			"endereco_correspondencia": "Rua Lauro Muller",
+			"bairro_socio": "JARDIM BLUMENAU",
+			"uf_socio": "SC",
+			"cidade_socio": "BLUMENAU",
+			"numero": "529",
+			"complemento": "501"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "08491742956"
+			},
+			"endereco_correspondencia": "RUA JOAO ASCENDINO LAMIM",
+			"bairro_socio": "CIDADE NOVA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "149",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "08502836986"
+			},
+			"endereco_correspondencia": "Rua Estefano José Vanolli",
+			"bairro_socio": "Sao Vicente ",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "1308",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "08523377956"
+			},
+			"endereco_correspondencia": "RUA JAMAICA",
+			"bairro_socio": "NAÇÕES",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEÁRIO CAMBORIÚ",
+			"numero": "192",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "08543300975"
+			},
+			"endereco_correspondencia": "Rua Caçador",
+			"bairro_socio": "São Vicente",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "192",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "08566497910"
+			},
+			"endereco_correspondencia": "RUA JOSE ROSA",
+			"bairro_socio": "CORDEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "08593729959"
+			},
+			"endereco_correspondencia": "RUA SAO CRISTOVÃO",
+			"bairro_socio": "CORDEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "480",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "08663524811"
+			},
+			"endereco_correspondencia": "3000",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEARIO CAMBORIU",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "08693399900"
+			},
+			"endereco_correspondencia": "RUA LAURA DOS SANTOS LAURINDO",
+			"bairro_socio": "SANTA CLARA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "41",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "08715028798"
+			},
+			"endereco_correspondencia": "Rua Umbelino Damasio de Brito",
+			"bairro_socio": "Centro",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "379",
+			"complemento": "Ap 801"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "08729932998"
+			},
+			"endereco_correspondencia": "RUA HENRY PEDRO DEITOS",
+			"bairro_socio": "DOM BOSCO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "08747294914"
+			},
+			"endereco_correspondencia": "RUA FERMINO VIEIRA CORDEIRO",
+			"bairro_socio": "ESPINHEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "1200",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "08812529992"
+			},
+			"endereco_correspondencia": "RUA FREDERICO AUGUSTO LUIZ THIEME",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "241",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "08825699964"
+			},
+			"endereco_correspondencia": "RUA ALFREDO KLEIS",
+			"bairro_socio": "SAO VICENTE",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "243",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "08826202907"
+			},
+			"endereco_correspondencia": "RUA MANOEL IZIDRO",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "NAVEGANTES",
+			"numero": "165",
+			"complemento": "CASA"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "08853670908"
+			},
+			"endereco_correspondencia": "Rua Lourenço Durval Inocencio",
+			"bairro_socio": "Gravata ",
+			"uf_socio": "SC",
+			"cidade_socio": "Navegantes ",
+			"numero": "199",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "08967213964"
+			},
+			"endereco_correspondencia": "RUA RIO TAPEROA",
+			"bairro_socio": "JARDIM NOVO OASIS",
+			"uf_socio": "PR",
+			"cidade_socio": "MARINGA",
+			"numero": "500",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "08970298878"
+			},
+			"endereco_correspondencia": "RUA ANTINESCHA PRAVATO TRAUZOLA",
+			"bairro_socio": "ITATIBA",
+			"uf_socio": "SP",
+			"cidade_socio": "ITATIBA",
+			"numero": "185",
+			"complemento": "RESIDENCIAL FLAMBOYANT"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "09080238988"
+			},
+			"endereco_correspondencia": "emilio francisco rosa",
+			"bairro_socio": "sao joao",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "09083063933"
+			},
+			"endereco_correspondencia": "Rua Lamenha Lins",
+			"bairro_socio": "centro",
+			"uf_socio": "PR",
+			"cidade_socio": "Curitiba",
+			"numero": "415",
+			"complemento": "ap 201"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "09088812900"
+			},
+			"endereco_correspondencia": "RUA 770",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNERIO CAMBORIU",
+			"numero": "20",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "09094153904"
+			},
+			"endereco_correspondencia": "TRAVESSA LISBERTO JOAO POTTER",
+			"bairro_socio": "BARRA DO RIO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "64",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "09117996996"
+			},
+			"endereco_correspondencia": "AVENIDA MARIO URIARTE",
+			"bairro_socio": "CORDEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "975",
+			"complemento": "CASA 14"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "09167816665"
+			},
+			"endereco_correspondencia": "Rua Liberato Schupcheck",
+			"bairro_socio": "Sao Joao",
+			"uf_socio": "PR",
+			"cidade_socio": "Pitanga",
+			"numero": "131",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "09188486958"
+			},
+			"endereco_correspondencia": "Rua Carlos Hugo Praun",
+			"bairro_socio": "Centro",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "78",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "09275577978"
+			},
+			"endereco_correspondencia": "ESTRADA GERAL RIO DOS QUATIS",
+			"bairro_socio": "INVERNADINHA",
+			"uf_socio": "SC",
+			"cidade_socio": "RANCHO QUEIMADO",
+			"numero": "13",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "09275577978"
+			},
+			"endereco_correspondencia": "RUA LAGES",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "89",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "09357786910"
+			},
+			"endereco_correspondencia": "AVENIDA ABRAAO JOÃO FRANCISCO",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "249",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "09501526925"
+			},
+			"endereco_correspondencia": "AV MINISTRO LUIZ GALLOTI",
+			"bairro_socio": "CIDADE NOVA",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "251",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "09552563720"
+			},
+			"endereco_correspondencia": "RUA LEOPOLDINA REGO",
+			"bairro_socio": "OLARIA",
+			"uf_socio": "RJ",
+			"cidade_socio": "Rio de Janeiro",
+			"numero": "260",
+			"complemento": "APT 102"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "09553833900"
+			},
+			"endereco_correspondencia": "RUA LICO AMARAL",
+			"bairro_socio": "DOM BOSCO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "446",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "09654012944"
+			},
+			"endereco_correspondencia": "RUA CARLOS SEARA",
+			"bairro_socio": "VILA OPERARIA",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "613",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "09680426947"
+			},
+			"endereco_correspondencia": "RUA LAURO MULLER",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "478",
+			"complemento": "APTO 301 NORTE"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "09693131959"
+			},
+			"endereco_correspondencia": "RUA RUA FREDERICO AUGUSTO LUIZ THIEME",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "241",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "09781995963"
+			},
+			"endereco_correspondencia": "RUA 3618",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEARIO CAMBORIU",
+			"numero": "116",
+			"complemento": "APTO 2401"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "09782017957"
+			},
+			"endereco_correspondencia": "Rua 3618",
+			"bairro_socio": "centro",
+			"uf_socio": "SC",
+			"cidade_socio": "balneario camboriu",
+			"numero": "116",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "09787752957"
+			},
+			"endereco_correspondencia": "RUA FERMINO VIEIRA CORDEIRO",
+			"bairro_socio": "ESPINHEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "848",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "09876336789"
+			},
+			"endereco_correspondencia": "RUA LICO AMARAL",
+			"bairro_socio": "DOM BOSCO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "09882712738"
+			},
+			"endereco_correspondencia": "Rua 15 de Novembro",
+			"bairro_socio": "Centro",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "383",
+			"complemento": "Apto. 1003"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "09897756906"
+			},
+			"endereco_correspondencia": "RUA JORGE TZACHEL",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "360",
+			"complemento": "APT 501"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "09909008947"
+			},
+			"endereco_correspondencia": "rua jose quirino",
+			"bairro_socio": "sao joao",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "365",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "09918705906"
+			},
+			"endereco_correspondencia": "Rua 11 de Junho",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": ", ",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "10058007903"
+			},
+			"endereco_correspondencia": "Rua nackle francisco",
+			"bairro_socio": "centro",
+			"uf_socio": "SC",
+			"cidade_socio": "balneário piçarras",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "10297469908"
+			},
+			"endereco_correspondencia": "RUA CRISTIANO ALBRECHT",
+			"bairro_socio": "SAO PEDRO",
+			"uf_socio": "SC",
+			"cidade_socio": "GUABURIBA",
+			"numero": "1390",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "10479472777"
+			},
+			"endereco_correspondencia": "Travessa tenente Mesquita",
+			"bairro_socio": "JARDIM ICARAI",
+			"uf_socio": "RJ",
+			"cidade_socio": "NITEROI",
+			"numero": "45",
+			"complemento": "apto 606 bloco 1"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "10499185927"
+			},
+			"endereco_correspondencia": "RUA JORGE TZACHEL",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "360",
+			"complemento": "APTO 501"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "10525396888"
+			},
+			"endereco_correspondencia": "RUA CONSELHEIRO BROTERO",
+			"bairro_socio": "SANTA CECÍLIA",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "1250",
+			"complemento": "APTO 171"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "10554986990"
+			},
+			"endereco_correspondencia": "RUA EREDES SERPA",
+			"bairro_socio": "CORDEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "944",
+			"complemento": "APT 305"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "10556333918"
+			},
+			"endereco_correspondencia": "AV EXPEDICIONARIO JOSE INACIO DA ROCHA",
+			"bairro_socio": "SAO VICENTE",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "275",
+			"complemento": "CASA 2"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "10638289610"
+			},
+			"endereco_correspondencia": "Rua Ceara",
+			"bairro_socio": "CUSTODIO PEREIRA ",
+			"uf_socio": "MG",
+			"cidade_socio": "UBERLANDIA",
+			"numero": "3969",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "10716709805"
+			},
+			"endereco_correspondencia": "rua lico amaral",
+			"bairro_socio": "dom bosco",
+			"uf_socio": "SC",
+			"cidade_socio": "itajaí",
+			"numero": "35",
+			"complemento": "apto 9"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "10725549920"
+			},
+			"endereco_correspondencia": "RUA LAGES",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "89",
+			"complemento": "APTO 1001"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "10744793866"
+			},
+			"endereco_correspondencia": "AVENIDA GIL DE ABREU SOUZA",
+			"bairro_socio": "ESPERANÇA",
+			"uf_socio": "PR",
+			"cidade_socio": "LONDRINA",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "10794694780"
+			},
+			"endereco_correspondencia": "Rua Arlecio de Souza Flor",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "70",
+			"complemento": "apto. 701"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "10828632898"
+			},
+			"endereco_correspondencia": "RUA CARLOS MAXIMIANO DA SILVA",
+			"bairro_socio": "Centro",
+			"uf_socio": "SC",
+			"cidade_socio": "Navegantes",
+			"numero": "250",
+			"complemento": "CASA 01"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "10887840892"
+			},
+			"endereco_correspondencia": "Rua Maria da Glória",
+			"bairro_socio": "São João",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "145",
+			"complemento": "Apto 1601"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "10887840892"
+			},
+			"endereco_correspondencia": "RUA MARIA DA GLORIA",
+			"bairro_socio": "SÃO JOÃO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "175",
+			"complemento": "APT 1606"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "11187772984"
+			},
+			"endereco_correspondencia": "RUA 3700",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEARIO CAMBORIU",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "11246602750"
+			},
+			"endereco_correspondencia": "Travessa Tenente Mesquita",
+			"bairro_socio": "Jardim Icarai",
+			"uf_socio": "RJ",
+			"cidade_socio": "Niteroi",
+			"numero": "45",
+			"complemento": "APTO 606 BLOCO 1"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "11292703865"
+			},
+			"endereco_correspondencia": "RUA ALCINO BRAGA",
+			"bairro_socio": "PARAISO",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "220",
+			"complemento": "AP 51"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "11303092000103"
+			},
+			"endereco_correspondencia": "Avenida Doutor Nereu Ramos",
+			"bairro_socio": "Meia Praia",
+			"uf_socio": "SC",
+			"cidade_socio": "Itapema",
+			"numero": "5999",
+			"complemento": "Bloco D, Apto 1002"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "11303092000103"
+			},
+			"endereco_correspondencia": "Rua Uruguai",
+			"bairro_socio": "Centro",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "223",
+			"complemento": "sala 1313"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "11417858974"
+			},
+			"endereco_correspondencia": "RUA DOUTOR PEDRO FERREIRA",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "71",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "11520895950"
+			},
+			"endereco_correspondencia": "AVENIDA CENTRAL",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEÁRIO CAMBORIU",
+			"numero": "511",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "11710149701"
+			},
+			"endereco_correspondencia": "RUA 242",
+			"bairro_socio": "MEIA PRAIA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAPEMA",
+			"numero": "380",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "11867564700"
+			},
+			"endereco_correspondencia": "RUA FRANCISCO FRIAS RABELO",
+			"bairro_socio": "AEROPORTO",
+			"uf_socio": "RJ",
+			"cidade_socio": "ITAPERUNA",
+			"numero": "51",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "11871132800"
+			},
+			"endereco_correspondencia": "RUA JOSÉ GARIBALDI DANTAS",
+			"bairro_socio": "VILA INDEPENDÊNCIA",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "11906607923"
+			},
+			"endereco_correspondencia": "AV EXPEDICIONARIO JOSE INACIO DA ROCHA",
+			"bairro_socio": "SAO VICENTE",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "275",
+			"complemento": "CASA 2"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "12101241900"
+			},
+			"endereco_correspondencia": "Rua Demétrio P. S. Medeiros",
+			"bairro_socio": "Ressacada ",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí ",
+			"numero": "119",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "12121893881"
+			},
+			"endereco_correspondencia": "Av. das Nações Unidas",
+			"bairro_socio": "Pinheiros",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "8501",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "12121893881"
+			},
+			"endereco_correspondencia": "Avenida das Nações Unidas",
+			"bairro_socio": "Pinheiros",
+			"uf_socio": "SP",
+			"cidade_socio": "São Paulo",
+			"numero": "8501",
+			"complemento": "CEP: 05.425-070"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "12505697884"
+			},
+			"endereco_correspondencia": "AVENIDA GIL DE ABREU SOUZA",
+			"bairro_socio": "ESPERANÇA",
+			"uf_socio": "PR",
+			"cidade_socio": "LONDRINA",
+			"numero": "2001",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "12617337979"
+			},
+			"endereco_correspondencia": "Avenida Osvaldo Reis",
+			"bairro_socio": "Fazendinha",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "999",
+			"complemento": "Casa"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "12878659848"
+			},
+			"endereco_correspondencia": "RUA JOAO MARIANO",
+			"bairro_socio": "ITANHÉM",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "193",
+			"complemento": "APTO 704"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "12939221880"
+			},
+			"endereco_correspondencia": "RUA OIAPOQUE",
+			"bairro_socio": "BRAS",
+			"uf_socio": "SP",
+			"cidade_socio": "SAO PAULO",
+			"numero": "101",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "13015978802"
+			},
+			"endereco_correspondencia": "Rua Conselheiro Brotero",
+			"bairro_socio": "Higienópolis",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "1316",
+			"complemento": "Apto 121"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "13288089807"
+			},
+			"endereco_correspondencia": "rua soror angelica",
+			"bairro_socio": "vila ester",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "735",
+			"complemento": "cobertura 82"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "13385148812"
+			},
+			"endereco_correspondencia": "AV JOCA BRANDAO",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "111",
+			"complemento": "APTO 703"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "13776642874"
+			},
+			"endereco_correspondencia": "Rua Barão do Rio Branco",
+			"bairro_socio": "Centro",
+			"uf_socio": "SP",
+			"cidade_socio": "Capivari",
+			"numero": "1445",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "13779845830"
+			},
+			"endereco_correspondencia": "Rua Maria Guimarães Franco",
+			"bairro_socio": "Bairro Maria Guimarães Franco Rios",
+			"uf_socio": "MG",
+			"cidade_socio": "Pouso Alegre",
+			"numero": "51",
+			"complemento": "CEP 37558- 547"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "14044862087"
+			},
+			"endereco_correspondencia": "RUA HENRY DUNANT",
+			"bairro_socio": "SANTO AMARO",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "780",
+			"complemento": "13° ANDAR TORRE B"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "14271677000179"
+			},
+			"endereco_correspondencia": "AVENIDA ALEXANDRE BONETTI",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "PR",
+			"cidade_socio": "NOVA ESPERANÇA DO SUDOESTE",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "14360359888"
+			},
+			"endereco_correspondencia": "RUA INDAIAL",
+			"bairro_socio": "DOM BOSCO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "161",
+			"complemento": "TORRE B APT 302"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "14366095858"
+			},
+			"endereco_correspondencia": "RUA CONSELHEIRO BROTERO",
+			"bairro_socio": "SANTA CECÍLIA",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "1250",
+			"complemento": "APTO 171"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "14590363950"
+			},
+			"endereco_correspondencia": "Rua Lauro Muller",
+			"bairro_socio": "Centro",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "478",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "14705645804"
+			},
+			"endereco_correspondencia": "RUA SANTA GERTUDES",
+			"bairro_socio": "CHACAR SANTO ANTONIO",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "180",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "14878781840"
+			},
+			"endereco_correspondencia": "15093110",
+			"bairro_socio": "Rua Ângelo Cal",
+			"uf_socio": "SP",
+			"cidade_socio": "São José do Rio Preto",
+			"numero": "300",
+			"complemento": "Condomínio Harmonia Residense"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "14937734881"
+			},
+			"endereco_correspondencia": "Rua Delta",
+			"bairro_socio": "Parque São José",
+			"uf_socio": "SP",
+			"cidade_socio": "São Bernardo do Campo",
+			"numero": "156",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "15212903000103"
+			},
+			"endereco_correspondencia": "Rua Arthur Rigo",
+			"bairro_socio": "Santa Cruz",
+			"uf_socio": "RS",
+			"cidade_socio": "NOVA PRATA",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "15764803802"
+			},
+			"endereco_correspondencia": "RUA  JACARANDÁ",
+			"bairro_socio": "JARDIM INTERLAGOS",
+			"uf_socio": "SP",
+			"cidade_socio": "HORTOLANDIA",
+			"numero": "90",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "15881780728"
+			},
+			"endereco_correspondencia": "Rua Arlecio de Souza Flor",
+			"bairro_socio": "Centro",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "70",
+			"complemento": "Apto. 701"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "15946674897"
+			},
+			"endereco_correspondencia": "Rua: Olavo Bilac",
+			"bairro_socio": "Bairro Cruz",
+			"uf_socio": "SP",
+			"cidade_socio": "Lorena",
+			"numero": "535",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "16013445893"
+			},
+			"endereco_correspondencia": "Rua Agnaldo Macedo",
+			"bairro_socio": "Jardim das Oliveiras",
+			"uf_socio": "SC",
+			"cidade_socio": "Campinas",
+			"numero": "400",
+			"complemento": "apto 302"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "16013445893"
+			},
+			"endereco_correspondencia": "Rua Agnaldo Macedo",
+			"bairro_socio": "Jardim das Oliveiras",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "400",
+			"complemento": "Apto 32, Bloco C"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "16083763894"
+			},
+			"endereco_correspondencia": "RUA ALDO MARCOS DA CUNHA",
+			"bairro_socio": "RESSACADA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "170",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "16377299877"
+			},
+			"endereco_correspondencia": "AVENIDA OSVALDO REIS",
+			"bairro_socio": "FAZENDINHA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "1950",
+			"complemento": "APTO 1.601, TORRE B"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "16550722004"
+			},
+			"endereco_correspondencia": "RUA SERAFIM FAGUNDES",
+			"bairro_socio": "DISTRITO",
+			"uf_socio": "RS",
+			"cidade_socio": "IBIRUBA",
+			"numero": "432",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "16722182000144"
+			},
+			"endereco_correspondencia": "Jose Gall",
+			"bairro_socio": "Dom Bosco ",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "1121",
+			"complemento": "Apto 301, Bloco A"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "16865358805"
+			},
+			"endereco_correspondencia": "RUA OIAPOQUE",
+			"bairro_socio": "BRAS",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "101",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "17383616839"
+			},
+			"endereco_correspondencia": "TRAVESSA FAZENDINHA",
+			"bairro_socio": "ROSEIRA",
+			"uf_socio": "SP",
+			"cidade_socio": "JUNDIAI",
+			"numero": "115",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "17802388000147"
+			},
+			"endereco_correspondencia": "Jose Gall",
+			"bairro_socio": "Dom Bosco ",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "1121",
+			"complemento": "Apto 301, Bloco A"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "17866286949"
+			},
+			"endereco_correspondencia": "Rua Jovito anacleto",
+			"bairro_socio": "cordeiros",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "1021",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "18172016972"
+			},
+			"endereco_correspondencia": "AVENIDA LISBOA",
+			"bairro_socio": "ITOUPAVA NORTE",
+			"uf_socio": "SC",
+			"cidade_socio": "BLUMENAU",
+			"numero": "193",
+			"complemento": "APARTAMENTO"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "18726169843"
+			},
+			"endereco_correspondencia": "RUA DIANA",
+			"bairro_socio": "PERDIZES",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "531",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "18887309949"
+			},
+			"endereco_correspondencia": "RUA PALENE",
+			"bairro_socio": "VILA GUILHERME",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "70",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "18898076800"
+			},
+			"endereco_correspondencia": "AVENIDA GETULIO VARGAS",
+			"bairro_socio": "VILA AVIAÇÃO",
+			"uf_socio": "SP",
+			"cidade_socio": "BAURU",
+			"numero": "25-25",
+			"complemento": "APTO 304 A"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "19095532801"
+			},
+			"endereco_correspondencia": "RUA CHEFER TEMER FERES",
+			"bairro_socio": "JARDIM LAGO DA PRATA",
+			"uf_socio": "SP",
+			"cidade_socio": "LENÇÓIS PAULISTA",
+			"numero": "57",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "19190229886"
+			},
+			"endereco_correspondencia": "Rua José Joaquim dos Santos",
+			"bairro_socio": "Centro",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "115",
+			"complemento": "apto 405"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "19354681034"
+			},
+			"endereco_correspondencia": "RUA ALFREDO JULIANO",
+			"bairro_socio": "PRIMOR",
+			"uf_socio": "RS",
+			"cidade_socio": "SAPUCAIA DO SUL",
+			"numero": "550",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "20357265149"
+			},
+			"endereco_correspondencia": "Avenida Doutor Nereu Ramos",
+			"bairro_socio": "Meia Praia",
+			"uf_socio": "SC",
+			"cidade_socio": "Itapema",
+			"numero": "5999",
+			"complemento": "Bloco D, Apto 1002"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "21274049806"
+			},
+			"endereco_correspondencia": "RUA MARIA FIGUEIREDO",
+			"bairro_socio": "PARAISO",
+			"uf_socio": "SP",
+			"cidade_socio": "SAO PAULO",
+			"numero": "633",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "21281563862"
+			},
+			"endereco_correspondencia": "RUA HEBE",
+			"bairro_socio": "PARADA INGLESA",
+			"uf_socio": "SP",
+			"cidade_socio": "SAO PAULO",
+			"numero": "102",
+			"complemento": "CASA 02"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "21425652808"
+			},
+			"endereco_correspondencia": "RUA LAURO MULLER",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "950",
+			"complemento": "APTO 1901"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "21836155832"
+			},
+			"endereco_correspondencia": "RUA PEDRO DE ALVARENGA",
+			"bairro_socio": "ITAIM BIBI",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "121",
+			"complemento": "APTO 31"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "21884698875"
+			},
+			"endereco_correspondencia": "Rua Lincoln Albuquerque",
+			"bairro_socio": "Perdizes",
+			"uf_socio": "SP",
+			"cidade_socio": "São Paulo",
+			"numero": "284",
+			"complemento": "apto 122"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "22122753072"
+			},
+			"endereco_correspondencia": "R HERBERT KREMER",
+			"bairro_socio": "SAO JOAO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "22285519885"
+			},
+			"endereco_correspondencia": "Rua Euclides Cunha",
+			"bairro_socio": "Vila Euclides",
+			"uf_socio": "SP",
+			"cidade_socio": "São Bernardo do Campo",
+			"numero": "190",
+			"complemento": "3 Andar, Apto 33"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "22471566812"
+			},
+			"endereco_correspondencia": "RUA ALEMANHA",
+			"bairro_socio": "JARDIM SANTO ANTONIO",
+			"uf_socio": "SP",
+			"cidade_socio": "JARDIM LEONOR",
+			"numero": "213",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "22818784816"
+			},
+			"endereco_correspondencia": "RUA URUGUAI",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "607",
+			"complemento": "APTO 201"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "23266007891"
+			},
+			"endereco_correspondencia": "AVENIDA RAIMUNDO PEREIRA DE MAGALHÃES",
+			"bairro_socio": "JARDIM IRIS",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "1720",
+			"complemento": "APTO 153 A, BLOCO 5"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "23333684896"
+			},
+			"endereco_correspondencia": "RUA CELSO DE AZEVEDO MARQUES",
+			"bairro_socio": "PARQUE DA MOOCA",
+			"uf_socio": "SP",
+			"cidade_socio": "SAO PAULO",
+			"numero": "360",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "23374565875"
+			},
+			"endereco_correspondencia": "AVENIDA LACERDA FRANCO",
+			"bairro_socio": "CATUMBI",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "527",
+			"complemento": "TORRES 3, APTO 61"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "23381696890"
+			},
+			"endereco_correspondencia": "Rua do Oratório",
+			"bairro_socio": "MOOCA",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "202",
+			"complemento": "APTO 221"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "23506362836"
+			},
+			"endereco_correspondencia": "RUA DOUTOR TOMAS CARVALHAL",
+			"bairro_socio": "PARAÍSO",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "310",
+			"complemento": "APTO 105"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "23527630880"
+			},
+			"endereco_correspondencia": "RUA CELSO DE AZEVEDO MARQUES",
+			"bairro_socio": "PARQUE DA MOOCA",
+			"uf_socio": "SP",
+			"cidade_socio": "SAO PAULO",
+			"numero": "360",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "23546063899"
+			},
+			"endereco_correspondencia": "Rua Taquari",
+			"bairro_socio": "Mooca",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "970",
+			"complemento": "apto 232"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "23690443000157"
+			},
+			"endereco_correspondencia": "Rua 3710",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEÁRIO CAMBORIÚ",
+			"numero": "170",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "23770033892"
+			},
+			"endereco_correspondencia": "Praça Almeida Júnior",
+			"bairro_socio": "Liberdade",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "63",
+			"complemento": "apto 166"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "23813443817"
+			},
+			"endereco_correspondencia": "AVENIDA CÔNSUL JOSEPH NOUJAIM",
+			"bairro_socio": "PINA",
+			"uf_socio": "PE",
+			"cidade_socio": "RECIFE",
+			"numero": "146",
+			"complemento": "APTO 803"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "23841442862"
+			},
+			"endereco_correspondencia": "RUA MOGI MIRIM",
+			"bairro_socio": "VILA BERTIOGA",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "138",
+			"complemento": "APTO 42, BLOCO B"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "23993234000182"
+			},
+			"endereco_correspondencia": "Jorge Tzachel",
+			"bairro_socio": "Fazenda",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "09",
+			"complemento": "casa 02"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "24797053828"
+			},
+			"endereco_correspondencia": "Avenida Conselheiro Nébias",
+			"bairro_socio": "Boqueirão",
+			"uf_socio": "SP",
+			"cidade_socio": "SANTOS",
+			"numero": "818",
+			"complemento": "Apartamento 111"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "25392960847"
+			},
+			"endereco_correspondencia": "AL CASA BRANCA",
+			"bairro_socio": "Jardim Paulista",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "1077",
+			"complemento": "AP 71"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "25951583845"
+			},
+			"endereco_correspondencia": "RUA WANDENKOLK",
+			"bairro_socio": "MOOCA",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "711",
+			"complemento": "1º ANDAR, APARTAMENTO 12D, BLOCO 4"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "26154180845"
+			},
+			"endereco_correspondencia": "RUA TUBARÃO",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "260",
+			"complemento": "APTO 906"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "26343082808"
+			},
+			"endereco_correspondencia": "RUA LICO AMARAL",
+			"bairro_socio": "DOM BOSCO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "35",
+			"complemento": "CASA 17"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "26459417881"
+			},
+			"endereco_correspondencia": "RUA JOSE DE MELO",
+			"bairro_socio": "SANTA ROSA",
+			"uf_socio": "MG",
+			"cidade_socio": "BELO HORIZONTE",
+			"numero": "525",
+			"complemento": "BLOCO 05 APT 103"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "26502221823"
+			},
+			"endereco_correspondencia": "RUA AUSTERGÍLIO ANGELINO",
+			"bairro_socio": "SÃO JOÃO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "26884292000166"
+			},
+			"endereco_correspondencia": "AVENIDA LISBOA",
+			"bairro_socio": "ITOUPAVA NORTE",
+			"uf_socio": "SC",
+			"cidade_socio": "BLUMENAU",
+			"numero": "193",
+			"complemento": "PRIMEIRO ANDAR"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "27339306803"
+			},
+			"endereco_correspondencia": "AVENIDA NOVE DE JULHO",
+			"bairro_socio": "ANHANGABAU",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "2989",
+			"complemento": "APTO 71"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "27368983893"
+			},
+			"endereco_correspondencia": "RUA CORAÇÃO SERTANEJO",
+			"bairro_socio": "CH FAZENDA DO CARMO",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "510",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "27425758806"
+			},
+			"endereco_correspondencia": "Av Paulista",
+			"bairro_socio": "Bela Vista",
+			"uf_socio": "SP",
+			"cidade_socio": "SAO PAULO",
+			"numero": "726",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "27654635818"
+			},
+			"endereco_correspondencia": "RUA HENRY DUNANT",
+			"bairro_socio": "SANTO AMARO",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "780",
+			"complemento": "13° ANDAR TORRE B"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "27673479885"
+			},
+			"endereco_correspondencia": "RUA CARAIBAS",
+			"bairro_socio": "PERDIZES",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "1025",
+			"complemento": "APTO 131 A"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "27872284880"
+			},
+			"endereco_correspondencia": "Avenida Conselheiro Nébias",
+			"bairro_socio": "Boqueirão",
+			"uf_socio": "SP",
+			"cidade_socio": "SANTOS",
+			"numero": "801",
+			"complemento": "Apto. 71"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "27887254000120"
+			},
+			"endereco_correspondencia": "RUA PARA 50",
+			"bairro_socio": "CJ",
+			"uf_socio": "SP",
+			"cidade_socio": "SAO PAULO",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "27887254000120"
+			},
+			"endereco_correspondencia": "Rua Pará",
+			"bairro_socio": "Consolação",
+			"uf_socio": "SP",
+			"cidade_socio": "São Paulo",
+			"numero": "50",
+			"complemento": "14º andar, Cj. 141, CEP 01.243-020"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "28017987897"
+			},
+			"endereco_correspondencia": "RUA CELSO DE AZEVEDO MARQUES",
+			"bairro_socio": "MOOCA",
+			"uf_socio": "SP",
+			"cidade_socio": "SAO PAULO",
+			"numero": "361",
+			"complemento": "APT 211"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "28209945000137"
+			},
+			"endereco_correspondencia": "Rua: das Gaivotas",
+			"bairro_socio": "Alphaville Graciosa",
+			"uf_socio": "PR",
+			"cidade_socio": "Pinhais",
+			"numero": "394",
+			"complemento": "residencial Andorinhas"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "28487575072"
+			},
+			"endereco_correspondencia": "RUA HENRY DUNANT",
+			"bairro_socio": "SANTO AMARO",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "780",
+			"complemento": "13° ANDAR TORRE B"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "28491368833"
+			},
+			"endereco_correspondencia": "Rua Helena",
+			"bairro_socio": "Vila Olimpia",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "151",
+			"complemento": "apto 204 Bloco 3"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "28598403890"
+			},
+			"endereco_correspondencia": "RUA SARUMA",
+			"bairro_socio": "RUA SARUMA",
+			"uf_socio": "SP",
+			"cidade_socio": "SAO PAULO",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "29163609991"
+			},
+			"endereco_correspondencia": "Rua Camboriú",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "1112",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "29166667968"
+			},
+			"endereco_correspondencia": "SERVIDAO",
+			"bairro_socio": "ILHA DA FIGUEIRA",
+			"uf_socio": "SC",
+			"cidade_socio": "JARAGUA DO SUL",
+			"numero": "127",
+			"complemento": "Nº 78"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "29171822968"
+			},
+			"endereco_correspondencia": "Rua Venezuela",
+			"bairro_socio": "DAS NAÇOES ",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEÁRIO CAMBORIÚ",
+			"numero": "60",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "29171920978"
+			},
+			"endereco_correspondencia": "rua lauro muller",
+			"bairro_socio": "fazendinha",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "950",
+			"complemento": "apto 1201"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "29311567876"
+			},
+			"endereco_correspondencia": "Rua Alexandria",
+			"bairro_socio": "Vila Metalúrgica",
+			"uf_socio": "SP",
+			"cidade_socio": "Santo André",
+			"numero": "173",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "29397436813"
+			},
+			"endereco_correspondencia": "Rua Lincoln Albuquerque",
+			"bairro_socio": "Perdizes",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "284",
+			"complemento": "apto 122"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "29816498000147"
+			},
+			"endereco_correspondencia": "Rua Eugenio Pezzini",
+			"bairro_socio": "Cordeiros",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "355",
+			"complemento": "Sala C"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "29839645749"
+			},
+			"endereco_correspondencia": "Avenida Lucio Costa",
+			"bairro_socio": "Barra da Tijuca",
+			"uf_socio": "RJ",
+			"cidade_socio": "Rio de Janeiro",
+			"numero": "2930",
+			"complemento": "Bloco 2, Apto 802"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "29857676871"
+			},
+			"endereco_correspondencia": "RUA HEBERT KREMER",
+			"bairro_socio": "SÃO JOÃO ",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "418",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "30001050850"
+			},
+			"endereco_correspondencia": "RUA IMARUÍ",
+			"bairro_socio": "SÃO JUDAS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "310",
+			"complemento": "CEP 88.303-470"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "30193210851"
+			},
+			"endereco_correspondencia": "Rua Rio do Sul",
+			"bairro_socio": "São Judas",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "30390910000199"
+			},
+			"endereco_correspondencia": "RUA MARIA DA GLORIA",
+			"bairro_socio": "SÃO JOÃO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "175",
+			"complemento": "APT 1606"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "30433622920"
+			},
+			"endereco_correspondencia": "Rua: Paulo Caramuru da Silva",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "160",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "30806077000114"
+			},
+			"endereco_correspondencia": "AVENIDA GETULIO VARGAS",
+			"bairro_socio": "VILA AVIAÇÃO",
+			"uf_socio": "SP",
+			"cidade_socio": "BAURU",
+			"numero": "25-25",
+			"complemento": "APTO 304 A"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "31086498000180"
+			},
+			"endereco_correspondencia": "Rua Água Verde",
+			"bairro_socio": "ÁGUA VERDE",
+			"uf_socio": "SC",
+			"cidade_socio": "Blumenau",
+			"numero": "282",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "31179216806"
+			},
+			"endereco_correspondencia": "RUA 3700",
+			"bairro_socio": "centro",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "425",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "31330264886"
+			},
+			"endereco_correspondencia": "RUA DAS GALENAS",
+			"bairro_socio": "PANTAN DO SUL",
+			"uf_socio": "SC",
+			"cidade_socio": "FLORIANOPOLIS",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "32063002827"
+			},
+			"endereco_correspondencia": "RUA JOSÉ PEREIRA LIBERATO",
+			"bairro_socio": "SÃO JUDAS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "2300",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "32089893850"
+			},
+			"endereco_correspondencia": "Alameda Santos",
+			"bairro_socio": "1773",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "32338398000167"
+			},
+			"endereco_correspondencia": "Rua Verbo Divino",
+			"bairro_socio": "Chácara Santo Antônio",
+			"uf_socio": "SP",
+			"cidade_socio": "São Paulo",
+			"numero": "1488",
+			"complemento": "3º Andar, Sala 31-A"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "32338399000101"
+			},
+			"endereco_correspondencia": "Rua Verbo Divino",
+			"bairro_socio": "Chácara Santo Antônio",
+			"uf_socio": "SP",
+			"cidade_socio": "São Paulo",
+			"numero": "1488",
+			"complemento": "3º Andar, Sala 31-A"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "32561616851"
+			},
+			"endereco_correspondencia": "AVENIDA ALEXANDRE CAZELATTO",
+			"bairro_socio": "BETEL",
+			"uf_socio": "SP",
+			"cidade_socio": "PAULINIA",
+			"numero": "378",
+			"complemento": "CASA 47"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "32586612000"
+			},
+			"endereco_correspondencia": "rua 1931",
+			"bairro_socio": "centro",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEARIO CAMBORIU",
+			"numero": "111",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "32958248000156"
+			},
+			"endereco_correspondencia": "Avenida das Americas",
+			"bairro_socio": "Barra da Tijucas",
+			"uf_socio": "RJ",
+			"cidade_socio": "Rio de Janeiro",
+			"numero": "3500",
+			"complemento": "Cond. Le Monde Office, Edificio Londres, 509"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "33039306863"
+			},
+			"endereco_correspondencia": "Rua Carlos Jensen",
+			"bairro_socio": " Itoupava Seca",
+			"uf_socio": "SC",
+			"cidade_socio": "BLUMENAU",
+			"numero": "146",
+			"complemento": "Apto. 801"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "33116753806"
+			},
+			"endereco_correspondencia": "AVENIDA SAO PAULO ANTIGO",
+			"bairro_socio": "REAL PARQUE",
+			"uf_socio": "SP",
+			"cidade_socio": "SAO PAULO",
+			"numero": "500",
+			"complemento": "APT 61 A"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "33364297819"
+			},
+			"endereco_correspondencia": "Rua Lauro Muller",
+			"bairro_socio": "Fazenda",
+			"uf_socio": "SC",
+			"cidade_socio": "88.301-401",
+			"numero": "950",
+			"complemento": "Sala 01 Escritório B-21"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "33558983840"
+			},
+			"endereco_correspondencia": "RUA RANGEL PESTANA",
+			"bairro_socio": "BANGU",
+			"uf_socio": "RJ",
+			"cidade_socio": "Rio de Janeiro",
+			"numero": "30",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "33715656883"
+			},
+			"endereco_correspondencia": "Rua José Benedito Salinas",
+			"bairro_socio": "Jardim Itapeva",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "110",
+			"complemento": "Apto. 133 B"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "34565603896"
+			},
+			"endereco_correspondencia": "Rua: Germano MontIbeller",
+			"bairro_socio": "Dom Bosco",
+			"uf_socio": "SC",
+			"cidade_socio": "itajaí",
+			"numero": "404",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "34794441720"
+			},
+			"endereco_correspondencia": "Avenida Lucio Costa",
+			"bairro_socio": "Barra da Tijuca",
+			"uf_socio": "RJ",
+			"cidade_socio": "Rio de Janeiro",
+			"numero": "2930",
+			"complemento": "Bloco 2, Apto 802"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "34803242000135"
+			},
+			"endereco_correspondencia": "Avenida das Americas",
+			"bairro_socio": "Barra da Tijucas",
+			"uf_socio": "RJ",
+			"cidade_socio": "Rio de Janeiro",
+			"numero": "3500",
+			"complemento": "Cond. Le Monde Office, Edificio Londres, 509"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "35400543839"
+			},
+			"endereco_correspondencia": "RUA ABRAAO BERNARDINO ROCHA",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "445",
+			"complemento": "APTO 901"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "35662992860"
+			},
+			"endereco_correspondencia": "Rua Acedilio Monteiro de Lima",
+			"bairro_socio": "São Vicente",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "35828278000136"
+			},
+			"endereco_correspondencia": "AVENIDA MINISTRO VICTOR KONDER",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "284",
+			"complemento": "APTO 01"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "36018735830"
+			},
+			"endereco_correspondencia": "RUA DR. MARIO TOLEDO DE MORAES",
+			"bairro_socio": "JARDIM DOS LAGOS ",
+			"uf_socio": "SP",
+			"cidade_socio": "FRANCO DA ROCHA",
+			"numero": "05",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "36363601835"
+			},
+			"endereco_correspondencia": "RUA ITAPOA",
+			"bairro_socio": "RESSACADA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "130",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "36541443904"
+			},
+			"endereco_correspondencia": "RUA URUGUAI",
+			"bairro_socio": "CENTRO ",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "879",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "36716031863"
+			},
+			"endereco_correspondencia": "Rua Tijucas",
+			"bairro_socio": "Centro",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "335",
+			"complemento": "apto 1301  bloco 2"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "37038109987"
+			},
+			"endereco_correspondencia": "RUA SILVESTRO MOSER",
+			"bairro_socio": "CORDEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "205",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "37326468000180"
+			},
+			"endereco_correspondencia": "RUA CORONEL CHICUTA",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "RS",
+			"cidade_socio": "PASSO FUNDO",
+			"numero": "64",
+			"complemento": "APTO 501"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "37362113000147"
+			},
+			"endereco_correspondencia": "RUA XV DE NOVEMBRO",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "PR",
+			"cidade_socio": "CURITIBA",
+			"numero": "964",
+			"complemento": "CONJ 30, ANDAR 03, COND INTER WALTER SPRENGE"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "37818209808"
+			},
+			"endereco_correspondencia": "Rua Colômbia",
+			"bairro_socio": "Jardim Terra Branca",
+			"uf_socio": "SP",
+			"cidade_socio": "Bauru",
+			"numero": "10-55",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "38661890000155"
+			},
+			"endereco_correspondencia": "QUADRA",
+			"bairro_socio": "SETOR OESTE",
+			"uf_socio": "DF",
+			"cidade_socio": "GAMA",
+			"numero": "15",
+			"complemento": "CASA 43"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "38708531900"
+			},
+			"endereco_correspondencia": "Rua Aderbal Ramos da Silva",
+			"bairro_socio": "centro",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "115",
+			"complemento": "apto 601"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "39377136890"
+			},
+			"endereco_correspondencia": "ALAMEDA DOS INGAZEIROS",
+			"bairro_socio": "RECREIO GRAMADO",
+			"uf_socio": "SP",
+			"cidade_socio": "CAMPINAS",
+			"numero": "1055",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "39827224972"
+			},
+			"endereco_correspondencia": "Rua Telemaco Pereira Liberato",
+			"bairro_socio": "Fazenda",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "39984400972"
+			},
+			"endereco_correspondencia": "RUA PEDRO CRISTIANO DE MIRANDA",
+			"bairro_socio": "SAO VICENTE",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "1301",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "40027406172"
+			},
+			"endereco_correspondencia": "QUADRA",
+			"bairro_socio": "SETOR OESTE",
+			"uf_socio": "DF",
+			"cidade_socio": "GAMA",
+			"numero": "15",
+			"complemento": "CASA 43"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "40897354168"
+			},
+			"endereco_correspondencia": "Rua Itabaquara",
+			"bairro_socio": "Pacaembu",
+			"uf_socio": "SP",
+			"cidade_socio": "São Paulo",
+			"numero": "223",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "42968810944"
+			},
+			"endereco_correspondencia": "RUA ADOLFO BATSCHAUER",
+			"bairro_socio": "DOM BOSCO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "941",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "43353215972"
+			},
+			"endereco_correspondencia": "Avenida Joca Brandão",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "193",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "44371078885"
+			},
+			"endereco_correspondencia": "ALAMEDA CURITIBA",
+			"bairro_socio": "ALPHAVILLE",
+			"uf_socio": "SP",
+			"cidade_socio": "SANTANA DO PARNAÍBA",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "44387636904"
+			},
+			"endereco_correspondencia": "RUA CLEVELÂNDIA",
+			"bairro_socio": "VITORIA",
+			"uf_socio": "PR",
+			"cidade_socio": "Londrina",
+			"numero": "150",
+			"complemento": "BLOCO 2, APTO 502"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "45032513920"
+			},
+			"endereco_correspondencia": "RUA DOUTOR CORREA COELHO",
+			"bairro_socio": "JARDIM BOTÂNICO",
+			"uf_socio": "PR",
+			"cidade_socio": "CURITIBA",
+			"numero": "544",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "45092970847"
+			},
+			"endereco_correspondencia": "RUA VEREADOR THIMOTEO GOES REBELO",
+			"bairro_socio": "MEIA PRAIA",
+			"uf_socio": "SC",
+			"cidade_socio": "NAVEGANTES",
+			"numero": "561",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "46353143915"
+			},
+			"endereco_correspondencia": "RUA BRUSQUE",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "920",
+			"complemento": "APT 04"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "46413073004"
+			},
+			"endereco_correspondencia": "Avenida Cel. João Linck",
+			"bairro_socio": "Centro",
+			"uf_socio": "RS",
+			"cidade_socio": "Rolante",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "46477659972"
+			},
+			"endereco_correspondencia": "Telemaco Pereira Liberato",
+			"bairro_socio": "Fazenda",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "46504389934"
+			},
+			"endereco_correspondencia": "AVENIDA NILO SIMAS",
+			"bairro_socio": "CIDADE NOVA",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "625",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "46660461949"
+			},
+			"endereco_correspondencia": "RUA BRUSQUE",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "40",
+			"complemento": "APTO 1302"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "46660461949"
+			},
+			"endereco_correspondencia": "RUA CAMBORIU",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "46660461949"
+			},
+			"endereco_correspondencia": "RUA CAMBORIU",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "411",
+			"complemento": "APTO 1302"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "47163720904"
+			},
+			"endereco_correspondencia": "Rodovia BR 116 Km 222",
+			"bairro_socio": "Area Industrial III",
+			"uf_socio": "SC",
+			"cidade_socio": "CORREIA PINTO",
+			"numero": "S/N",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "47673087049"
+			},
+			"endereco_correspondencia": "Rua Walir Zottis",
+			"bairro_socio": "Jardim Itu",
+			"uf_socio": "RS",
+			"cidade_socio": "PORTO ALEGRE",
+			"numero": "274",
+			"complemento": "apto 501"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "48249106920"
+			},
+			"endereco_correspondencia": "RUA AUGUSTO CUGNIER",
+			"bairro_socio": "SANTA REGINA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI ",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "48433560000"
+			},
+			"endereco_correspondencia": "RUA VEREADOR NESTOR DOS SANTOS",
+			"bairro_socio": "CORDEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "367",
+			"complemento": "APT 302, CEP 88.310-670"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "48859710120"
+			},
+			"endereco_correspondencia": "Rua das Primaveras",
+			"bairro_socio": "Setor Comercial",
+			"uf_socio": "MT",
+			"cidade_socio": "Sinop",
+			"numero": "3592",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "48899569800"
+			},
+			"endereco_correspondencia": "RUA DELFIM MARIO PÁDUA PEIXOTO",
+			"bairro_socio": "PRAIA BRAVA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "350",
+			"complemento": "APTO 702 - T.14"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "49241150963"
+			},
+			"endereco_correspondencia": "AVENIDA NILO SIMAS",
+			"bairro_socio": "CIDADE NOVA",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "625",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "49284215072"
+			},
+			"endereco_correspondencia": "RUA MODESTO FERNANDES VIEIRA",
+			"bairro_socio": "DOM BOSCO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "100",
+			"complemento": "APT 102A"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "49287877068"
+			},
+			"endereco_correspondencia": "RUA LUCIA SERAFIM DE OLIVEIRA",
+			"bairro_socio": "PRAIA BRAVA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "35",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "50326007091"
+			},
+			"endereco_correspondencia": "Av. Industrial Belgraf",
+			"bairro_socio": "Industrial",
+			"uf_socio": "RS",
+			"cidade_socio": "Eldorado do Sul",
+			"numero": "865",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "50393383172"
+			},
+			"endereco_correspondencia": "Rua das Primaveras",
+			"bairro_socio": "Setor Comercial",
+			"uf_socio": "MT",
+			"cidade_socio": "Sinop",
+			"numero": "3592",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "51461986249"
+			},
+			"endereco_correspondencia": "AVENIDA PAU BRASIL",
+			"bairro_socio": "VILLAGE DO LAGO",
+			"uf_socio": "MS",
+			"cidade_socio": "TRES ALAGOAS",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "52760405087"
+			},
+			"endereco_correspondencia": "RUA KARL RICHARD BREITENBAUCH",
+			"bairro_socio": "VILA OPERARIA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "109",
+			"complemento": "CASA 01"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "52964450072"
+			},
+			"endereco_correspondencia": "avenida das constelações",
+			"bairro_socio": "são joão do rio vermelho ",
+			"uf_socio": "SC",
+			"cidade_socio": "florianopolis ",
+			"numero": "274",
+			"complemento": "casa 02"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "53282760949"
+			},
+			"endereco_correspondencia": "RUA LAURO MULLER",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "306",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "53814444515"
+			},
+			"endereco_correspondencia": "AV 22 DE MARÇO",
+			"bairro_socio": "CANINHA",
+			"uf_socio": "SP",
+			"cidade_socio": "CANAS",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "53824717972"
+			},
+			"endereco_correspondencia": "RUA VEREADOR JOÃO ANGELINO LOPES JUNIOR",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "486",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "54150965900"
+			},
+			"endereco_correspondencia": "RUA BRUSQUE",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "920",
+			"complemento": "APT 04"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "54246539953"
+			},
+			"endereco_correspondencia": "Rua Wenceslau Bras Pereira Gomes",
+			"bairro_socio": "São Cristovão",
+			"uf_socio": "SC",
+			"cidade_socio": "Chapecó",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "54794978987"
+			},
+			"endereco_correspondencia": "Rua Criciúma",
+			"bairro_socio": "Centro",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "257",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "56242085968"
+			},
+			"endereco_correspondencia": "RUA FERMINO VIEIRA CORDEIRO",
+			"bairro_socio": "ESPINHEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "848",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "56400608915"
+			},
+			"endereco_correspondencia": "Rua 906",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEARIO CAMBORIU",
+			"numero": "161",
+			"complemento": "apt 1101"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "56670044887"
+			},
+			"endereco_correspondencia": "Rua Ministro Godoy",
+			"bairro_socio": "Perdizes",
+			"uf_socio": "SP",
+			"cidade_socio": "São Paulo",
+			"numero": "1454",
+			"complemento": "Apto. 113"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "56859686987"
+			},
+			"endereco_correspondencia": "RUA DELFIM MARIO PÁDUA PEIXOTO",
+			"bairro_socio": "PRAIA BRAVA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "350",
+			"complemento": "TORRE 14, APTO 702"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "59371781149"
+			},
+			"endereco_correspondencia": "Rodovia BR 116",
+			"bairro_socio": "Area Industrial III",
+			"uf_socio": "SC",
+			"cidade_socio": "CORREIA PINTO",
+			"numero": "S/N",
+			"complemento": "KM 222"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "59441976768"
+			},
+			"endereco_correspondencia": "ETG SÃO BRAZ",
+			"bairro_socio": "ZONA RURAL",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEÁRIO PICARRAS",
+			"numero": "S/N",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "59654147904"
+			},
+			"endereco_correspondencia": "RUA CAPITÃO ADOLFO GERMANO ANDRADE",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "262",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "59654147904"
+			},
+			"endereco_correspondencia": "RUA LAJE PREDA",
+			"bairro_socio": "ITACORUBI",
+			"uf_socio": "SC",
+			"cidade_socio": "FLORIANOPOLIS",
+			"numero": "151",
+			"complemento": "APTO 308"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "59979615915"
+			},
+			"endereco_correspondencia": "RUA MARIO BRAS SANTANA",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEARIO PIÇARRAS",
+			"numero": "29",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "60180427032"
+			},
+			"endereco_correspondencia": "LUNAREJO SUR",
+			"bairro_socio": "DEL VISO",
+			"uf_socio": "RS",
+			"cidade_socio": "BUENOS AIRES ",
+			"numero": "1283",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "60180429086"
+			},
+			"endereco_correspondencia": "LUNAREJO SUR",
+			"bairro_socio": "DEL VISO",
+			"uf_socio": "RS",
+			"cidade_socio": "BUENOS AIRES",
+			"numero": "1283",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "60180431064"
+			},
+			"endereco_correspondencia": "LUNARELO SUR",
+			"bairro_socio": "DEL VISO",
+			"uf_socio": "RS",
+			"cidade_socio": "BUENOS AIRES ",
+			"numero": "1283",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "60801484987"
+			},
+			"endereco_correspondencia": "1700",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEARIO CAMBORIÚ",
+			"numero": "210",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "61604771968"
+			},
+			"endereco_correspondencia": "RUA JOSE FRANCISCO REIS",
+			"bairro_socio": "ESPINHEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "62905988991"
+			},
+			"endereco_correspondencia": "Av Getulio Vargas",
+			"bairro_socio": "Passo dos Fortes",
+			"uf_socio": "SC",
+			"cidade_socio": "Chapecó",
+			"numero": "2553",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "64002020991"
+			},
+			"endereco_correspondencia": "RUA JOSE FRANCISCO REIS",
+			"bairro_socio": "SANTA REGINA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "1176",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "64545741991"
+			},
+			"endereco_correspondencia": "RUA DOM CARLOS",
+			"bairro_socio": "VILA REAL",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEÁRIO CAMBORIÚ",
+			"numero": "48",
+			"complemento": "APTO 103, BLOCO A"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "65506677049"
+			},
+			"endereco_correspondencia": "Rua Santo Antonio",
+			"bairro_socio": "Centro",
+			"uf_socio": "RS",
+			"cidade_socio": "Rolante",
+			"numero": "1255",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "65814010134"
+			},
+			"endereco_correspondencia": "SQS 415",
+			"bairro_socio": "Asa Sul ",
+			"uf_socio": "DF",
+			"cidade_socio": "BRASILIA",
+			"numero": "",
+			"complemento": "Bloco U, Apartamento 307"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "66009952972"
+			},
+			"endereco_correspondencia": "RUA AFONSO ANTONIO PENA",
+			"bairro_socio": "VILA MOEMA ",
+			"uf_socio": "SC",
+			"cidade_socio": "TUBARÃO ",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "66419522072"
+			},
+			"endereco_correspondencia": "Rua 15 de novembro",
+			"bairro_socio": "centro",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "500",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "67380085034"
+			},
+			"endereco_correspondencia": "Rua Iguassu",
+			"bairro_socio": "SÃO CRISTOVÃO",
+			"uf_socio": "RS",
+			"cidade_socio": "PASSO FUNDO",
+			"numero": "12",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "68337361972"
+			},
+			"endereco_correspondencia": "RUA HILDEBRANDO JOSE DA SILVA",
+			"bairro_socio": "SÃO JOÃO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "795",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "68777094972"
+			},
+			"endereco_correspondencia": "Rua 2870",
+			"bairro_socio": "Centro",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEARIO CAMBORIU",
+			"numero": "32",
+			"complemento": "Apto 402"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "68867816187"
+			},
+			"endereco_correspondencia": "JORGE PEDRO BEDOGLIM",
+			"bairro_socio": "PARQUE  DOS NOVOS ESTADOS",
+			"uf_socio": "MS",
+			"cidade_socio": "CAMPO GRANDE",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "69349240106"
+			},
+			"endereco_correspondencia": "RUA LAGO",
+			"bairro_socio": "CONDOMINIO DO LAGO",
+			"uf_socio": "GO",
+			"cidade_socio": "GOIÂNIA",
+			"numero": "31",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "69498644853"
+			},
+			"endereco_correspondencia": "Avenida General Rondon",
+			"bairro_socio": "Vila Alzira",
+			"uf_socio": "SP",
+			"cidade_socio": "Guarujá",
+			"numero": "505",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "69868573904"
+			},
+			"endereco_correspondencia": "RUA NASCIMENTO",
+			"bairro_socio": "VILA GUEDES",
+			"uf_socio": "SP",
+			"cidade_socio": "HORTOLANDIA",
+			"numero": "20",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "70126016127"
+			},
+			"endereco_correspondencia": "Rua Delfim Mário Pádua Peixoto",
+			"bairro_socio": "Praia Brava",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "350",
+			"complemento": "Torre 5, Apto 601"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "70181764920"
+			},
+			"endereco_correspondencia": "AV MINISTRO VICTOR KONDER",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "284",
+			"complemento": "APTO 01"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "70247865150"
+			},
+			"endereco_correspondencia": "INTENDENTE ALFARO",
+			"bairro_socio": " ACASSUSO",
+			"uf_socio": "RS",
+			"cidade_socio": " BUENOS AIRES",
+			"numero": "1276B",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "70704660997"
+			},
+			"endereco_correspondencia": "Rua Duque de Caxias",
+			"bairro_socio": "Vila Operária",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "119",
+			"complemento": "apt 1003"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "70778213900"
+			},
+			"endereco_correspondencia": "Quadra 800 Conjunto 2",
+			"bairro_socio": "recanto das emas",
+			"uf_socio": "DF",
+			"cidade_socio": "Brasília",
+			"numero": "",
+			"complemento": "Casa 28"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "71074899920"
+			},
+			"endereco_correspondencia": "RUA GEREMIAS CALDEIRA",
+			"bairro_socio": "CABEÇUDAS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "21",
+			"complemento": "APTO 71"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "71075623987"
+			},
+			"endereco_correspondencia": "RUA SANTO ANTONIO",
+			"bairro_socio": "SAO JUDAS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "313",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "71174583991"
+			},
+			"endereco_correspondencia": "RUA HENRY DUNANT",
+			"bairro_socio": "SANTO AMARO",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "780",
+			"complemento": "13° ANDAR TORRE B"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "71456422987"
+			},
+			"endereco_correspondencia": "RUA QUINZE DE NOVEMBRO",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "71637079915"
+			},
+			"endereco_correspondencia": "Av Getulio Vargas",
+			"bairro_socio": "Passo dos Fortes",
+			"uf_socio": "SC",
+			"cidade_socio": "Chapecó",
+			"numero": "2553",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "72409681115"
+			},
+			"endereco_correspondencia": "RUA 3000",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "BALNEARIO CAMBORIU",
+			"numero": "376",
+			"complemento": "APTO 21"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "72941421904"
+			},
+			"endereco_correspondencia": "RUA PREFEITO MANOEL EVALDO MULLER",
+			"bairro_socio": "VOLTA GRANDE",
+			"uf_socio": "SC",
+			"cidade_socio": "NAVEGANTES",
+			"numero": "6301",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "72994207915"
+			},
+			"endereco_correspondencia": "Rodovia BR 116",
+			"bairro_socio": "Area Industrial",
+			"uf_socio": "SC",
+			"cidade_socio": "CORREIA PINTO",
+			"numero": "S/N",
+			"complemento": "KM 222"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "73000620087"
+			},
+			"endereco_correspondencia": "RUA JOSE GALL",
+			"bairro_socio": "DOM BOSCO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "185",
+			"complemento": "TORRE 1 APT 1022"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "73232157149"
+			},
+			"endereco_correspondencia": "RUA LICO AMARAL",
+			"bairro_socio": "DOM BOSCO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "205",
+			"complemento": "AP 44"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "74395526000154"
+			},
+			"endereco_correspondencia": "RUA DR. NICOLAU DE SOUZA QUEIROZ",
+			"bairro_socio": "VILA MARIANA ",
+			"uf_socio": "SP",
+			"cidade_socio": "SAO PAULO",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "74417568049"
+			},
+			"endereco_correspondencia": "AVENIDA DAS CANOAS",
+			"bairro_socio": "CANOAS",
+			"uf_socio": "RS",
+			"cidade_socio": "Canoas",
+			"numero": "194",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "74536354972"
+			},
+			"endereco_correspondencia": "RUA OTILIO DALCOQUIO",
+			"bairro_socio": "SALSEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "161",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "75143380987"
+			},
+			"endereco_correspondencia": "RUA SALUSTRIO S FREITAS",
+			"bairro_socio": "ITAJUBA",
+			"uf_socio": "SC",
+			"cidade_socio": "BARRA VELHA",
+			"numero": "108",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "75545594949"
+			},
+			"endereco_correspondencia": "Rua Paulo Herbst",
+			"bairro_socio": "CABEÇUDAS",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "30",
+			"complemento": "Apto. 02"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "75711990934"
+			},
+			"endereco_correspondencia": "RUA VALDEVINO VIEIRA CORDEIROS",
+			"bairro_socio": "RESSACADA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "32",
+			"complemento": "CASA"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "75807297091"
+			},
+			"endereco_correspondencia": "Rua Osmar Nunes",
+			"bairro_socio": "São João",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "421",
+			"complemento": "apto. 104"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "76171990825"
+			},
+			"endereco_correspondencia": "RUA  IBIAPABA",
+			"bairro_socio": "VILA SONIA ",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "67",
+			"complemento": "APTO 116"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "76396584034"
+			},
+			"endereco_correspondencia": "RUA CORONEL CAMISÃO",
+			"bairro_socio": "HARMONIA",
+			"uf_socio": "RS",
+			"cidade_socio": "CANOA",
+			"numero": "123",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "77538765972"
+			},
+			"endereco_correspondencia": "RUA EGIDIA DOS SANTOS EVARISTO",
+			"bairro_socio": "ESPINHEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "466",
+			"complemento": "CASA 02"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "78627230900"
+			},
+			"endereco_correspondencia": "RUA LUIZ CASTRO",
+			"bairro_socio": "ESPINHEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "988",
+			"complemento": "LOTE 22"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "78778891949"
+			},
+			"endereco_correspondencia": "RUA QUINZE DE NOVEMBRO",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "580",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "80214983072"
+			},
+			"endereco_correspondencia": "RUA MOISES VIANA",
+			"bairro_socio": "HIDRAULICA",
+			"uf_socio": "RS",
+			"cidade_socio": "SANTANA DO LIVRAMENTO",
+			"numero": "596",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "80491510004"
+			},
+			"endereco_correspondencia": "RUA ESPERIDIÃO GRACILIANO DA SILVA",
+			"bairro_socio": "DOM BOSCO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "341",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "80571395015"
+			},
+			"endereco_correspondencia": "Rua Camboriú",
+			"bairro_socio": "centro",
+			"uf_socio": "SC",
+			"cidade_socio": "itajai",
+			"numero": "894",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "80604161034"
+			},
+			"endereco_correspondencia": "RUA VERGINIA ANGELO SEVERINO",
+			"bairro_socio": "PRAIA BRAVA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "44",
+			"complemento": "APTO 701"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "80866190015"
+			},
+			"endereco_correspondencia": "OLGA GERN PEREIRA",
+			"bairro_socio": "CARVALHO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "245",
+			"complemento": "APTO 302"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "80892175087"
+			},
+			"endereco_correspondencia": "Rua: Dona Claudina",
+			"bairro_socio": "Méier",
+			"uf_socio": "RJ",
+			"cidade_socio": "Rio de Janeiro",
+			"numero": "270",
+			"complemento": "apto 101"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "81078498849"
+			},
+			"endereco_correspondencia": "RUA DR. MARIO TOLEDO DE MORAES",
+			"bairro_socio": "JARDIM DOS LAGOS ",
+			"uf_socio": "SP",
+			"cidade_socio": "FRANCO DA ROCHA",
+			"numero": "05",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "81105886034"
+			},
+			"endereco_correspondencia": "Rua Agostinho Fernandes Vieira",
+			"bairro_socio": "Fazenda",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "157",
+			"complemento": "Apto 621"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "81445393972"
+			},
+			"endereco_correspondencia": "R OSMAR JORDINO ALEXANDRE",
+			"bairro_socio": "CIDADE NOVA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "82161097920"
+			},
+			"endereco_correspondencia": "RUA CONSUL CARLOS RENAUX",
+			"bairro_socio": "CABEÇUDAS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "328",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "82200548087"
+			},
+			"endereco_correspondencia": "RUA CARLOS SEARA",
+			"bairro_socio": "VILA OPERARIA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "494",
+			"complemento": "APTO 701"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "82519277904"
+			},
+			"endereco_correspondencia": "RUA LAURO MULLER",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "256",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "83253785068"
+			},
+			"endereco_correspondencia": "Alameda Rio Branco",
+			"bairro_socio": "Jardim Blumenau",
+			"uf_socio": "SC",
+			"cidade_socio": "BLUMENAU",
+			"numero": "520",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "84844302949"
+			},
+			"endereco_correspondencia": "Avenida Osvaldo REIS",
+			"bairro_socio": "Praia Brava de Itajaí",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "3299",
+			"complemento": "Casa A13"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "85042293949"
+			},
+			"endereco_correspondencia": "RUA OTILIO DALCOQUIO",
+			"bairro_socio": "SALSEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "276",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "85076163991"
+			},
+			"endereco_correspondencia": "Rua Sidney Gaya",
+			"bairro_socio": "Sao Paulo",
+			"uf_socio": "SC",
+			"cidade_socio": "Navegantes",
+			"numero": "175",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "86090917834"
+			},
+			"endereco_correspondencia": "Rua Ipanema",
+			"bairro_socio": "Mooca",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "204",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "87044498949"
+			},
+			"endereco_correspondencia": "RUA AUGUSTO ZANARDO",
+			"bairro_socio": "JD DAS TORRES",
+			"uf_socio": "PR",
+			"cidade_socio": "MANDAGUARI",
+			"numero": "2302",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "88242161020"
+			},
+			"endereco_correspondencia": "RUA MILDA EHMKE",
+			"bairro_socio": "VELHA CENTRAL",
+			"uf_socio": "SC",
+			"cidade_socio": "BLUMENAU",
+			"numero": "36",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "88247880091"
+			},
+			"endereco_correspondencia": "Avenida Diamante",
+			"bairro_socio": "Rainha do Mar",
+			"uf_socio": "RS",
+			"cidade_socio": "Xangrila",
+			"numero": "1133",
+			"complemento": "Casa Q8 L1"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "88359697000"
+			},
+			"endereco_correspondencia": "RUA JORGE TZACHEL",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "360",
+			"complemento": "APT 501"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "88660370953"
+			},
+			"endereco_correspondencia": "RUA CONSUL CARLOS RENAUX",
+			"bairro_socio": "CABEÇUDAS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "328",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "88860957915"
+			},
+			"endereco_correspondencia": "RUA HERCULANO CORREA",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "127",
+			"complemento": "APTO 1406"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "89732227087"
+			},
+			"endereco_correspondencia": "RUA CARLOS SEARA",
+			"bairro_socio": "VILA OPERARIA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "494",
+			"complemento": "APTO 701"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "90813421934"
+			},
+			"endereco_correspondencia": "rua pedro joaquim vieira",
+			"bairro_socio": "sao judas",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "70",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "90815203934"
+			},
+			"endereco_correspondencia": "RUA FLORIANÓPOLIS",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAÍ",
+			"numero": "145",
+			"complemento": "CASA"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "90912985968"
+			},
+			"endereco_correspondencia": "RUA OSVALDO BERTEMES",
+			"bairro_socio": "FAZENDINHA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "85",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "91591660700"
+			},
+			"endereco_correspondencia": "Rua Itaguai",
+			"bairro_socio": "Pé Pequeno",
+			"uf_socio": "RJ",
+			"cidade_socio": "NITEROI",
+			"numero": "149/202",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "92095569920"
+			},
+			"endereco_correspondencia": "RUA ARTUR TORQUATO BATISTA",
+			"bairro_socio": "FAZENDINHA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "380",
+			"complemento": "CASA 27"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "92122973668"
+			},
+			"endereco_correspondencia": "Rua Joaquim Ferreira Coelho",
+			"bairro_socio": "Jardins do Vale",
+			"uf_socio": "MG",
+			"cidade_socio": "Viçosa",
+			"numero": "501",
+			"complemento": "Rua A, nº 115"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "92426786949"
+			},
+			"endereco_correspondencia": "Rua Umbelino Damásio de Brito",
+			"bairro_socio": "Centro",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "33",
+			"complemento": "apto 101"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "93262310034"
+			},
+			"endereco_correspondencia": "AVENIDA GUAPORE",
+			"bairro_socio": "PETROPOLIS",
+			"uf_socio": "RS",
+			"cidade_socio": "PORTO ALEGRE",
+			"numero": "55",
+			"complemento": "APTO 302"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "93388659753"
+			},
+			"endereco_correspondencia": "Rua Itaipava",
+			"bairro_socio": "Jardim Botanico",
+			"uf_socio": "RJ",
+			"cidade_socio": "Rio de Janeiro",
+			"numero": "18",
+			"complemento": "Apto. 101, Cep.: 22.461-030"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "93958439934"
+			},
+			"endereco_correspondencia": "RUA WILLY HENNING",
+			"bairro_socio": "SAO JUDAS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "220",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "93982909953"
+			},
+			"endereco_correspondencia": "Rua Alfredo Kleis",
+			"bairro_socio": "São Vicente",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "67",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "94624453115"
+			},
+			"endereco_correspondencia": "RUA ONZE DE JUNHO",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "233",
+			"complemento": "APTO 1302 2 - BLOCO B"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "95015485972"
+			},
+			"endereco_correspondencia": "RUA WLATER FERREIRA",
+			"bairro_socio": "PRAIA BRAVA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "296",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "95291580763"
+			},
+			"endereco_correspondencia": "RUA HENRY DUNANT",
+			"bairro_socio": "SANTO AMARO",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "780",
+			"complemento": "13° ANDAR TORRE B"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "95291776900"
+			},
+			"endereco_correspondencia": "RUA AMAPA",
+			"bairro_socio": "CORDEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "261",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "95293701720"
+			},
+			"endereco_correspondencia": "Av. das Nações Unidas",
+			"bairro_socio": "Pinheiros",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "8501",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "95293701720"
+			},
+			"endereco_correspondencia": "Avenida das Nações Unidas",
+			"bairro_socio": "Pinheiros",
+			"uf_socio": "SP",
+			"cidade_socio": "São Paulo",
+			"numero": "8501",
+			"complemento": "CEP: 05.425-070"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "95304541987"
+			},
+			"endereco_correspondencia": "Rua Martim Pescador",
+			"bairro_socio": "Praia Brava de Itajaí",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajaí",
+			"numero": "65",
+			"complemento": "Apto. 102  M5"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "95566759068"
+			},
+			"endereco_correspondencia": "RUA JOSE GALL",
+			"bairro_socio": "DOM BOSCO",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "1089",
+			"complemento": "APTO 1101"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "95693181715"
+			},
+			"endereco_correspondencia": "Av. das Nações Unidas",
+			"bairro_socio": "Pinheiros",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "8501",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "95693181715"
+			},
+			"endereco_correspondencia": "Avenida das Nações Unidas",
+			"bairro_socio": "Pinheiros",
+			"uf_socio": "SP",
+			"cidade_socio": "São Paulo",
+			"numero": "8501",
+			"complemento": "CEP: 05.425-070"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "95755110000"
+			},
+			"endereco_correspondencia": "RUA ANTONIO MANOEL MOREIRA",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "140",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "95958410059"
+			},
+			"endereco_correspondencia": "RUA CRUZEIRO",
+			"bairro_socio": "VILA NOVA",
+			"uf_socio": "SC",
+			"cidade_socio": "BLUMENAU",
+			"numero": "55",
+			"complemento": "APTO 103"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "96080019000"
+			},
+			"endereco_correspondencia": "RUA ARISTIDES ESTEVAO DA SILVA",
+			"bairro_socio": "RESSACADA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "65",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "96246715915"
+			},
+			"endereco_correspondencia": "RUA MARCOS MARKARIAN",
+			"bairro_socio": "NOVA ALIANÇA",
+			"uf_socio": "SP",
+			"cidade_socio": "RIBEIRÃO PRETO",
+			"numero": "325",
+			"complemento": "APTO 702"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "96364807020"
+			},
+			"endereco_correspondencia": "RUA MARIO BENTO DOS PASSOS",
+			"bairro_socio": "CORDEIROS",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "1617",
+			"complemento": "CASA 02"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "96392983015"
+			},
+			"endereco_correspondencia": "RUA BECO DAS FONTES",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "RS",
+			"cidade_socio": "IBIRUBA",
+			"numero": "31",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "96424222120"
+			},
+			"endereco_correspondencia": "RUA ONZE DE JUNHO",
+			"bairro_socio": "FAZENDA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "233",
+			"complemento": "APTO 801 BLOCO 01"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "97544850030"
+			},
+			"endereco_correspondencia": "RUA MARTIN PESCADOR",
+			"bairro_socio": "PRAIA BRAVA",
+			"uf_socio": "SC",
+			"cidade_socio": "ITAJAI",
+			"numero": "65",
+			"complemento": "APTO 302, BLOCO 01"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "97943665015"
+			},
+			"endereco_correspondencia": "Rua Jose Joaquim dos Santos",
+			"bairro_socio": "Centro",
+			"uf_socio": "SC",
+			"cidade_socio": "Itajai",
+			"numero": "115",
+			"complemento": "apto 405"
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "99146525068"
+			},
+			"endereco_correspondencia": "RUA JOSE MAURICIO",
+			"bairro_socio": "CAMOBI",
+			"uf_socio": "RS",
+			"cidade_socio": "IBIRUBÁ",
+			"numero": "180",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "99255073834"
+			},
+			"endereco_correspondencia": "AVENIDA SAPOPEMBA",
+			"bairro_socio": "SAPOPEMBA",
+			"uf_socio": "SP",
+			"cidade_socio": "SÃO PAULO",
+			"numero": "",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "99374870053"
+			},
+			"endereco_correspondencia": "AV. IMPERATRIZ LEOPOLDINA",
+			"bairro_socio": "PINHEIRO",
+			"uf_socio": "RS",
+			"cidade_socio": "SÃO LEOPOLDO",
+			"numero": "1900",
+			"complemento": ""
+		},
+		{
+			"cpf_socio": {
+				"cpfCnpj": "99776413072"
+			},
+			"endereco_correspondencia": "RUA COMERCIO",
+			"bairro_socio": "CENTRO",
+			"uf_socio": "RS",
+			"cidade_socio": "IBIRUBA",
+			"numero": "642",
+			"complemento": ""
+		}
+
+	]
+}
